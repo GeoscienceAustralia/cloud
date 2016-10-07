@@ -1,21 +1,25 @@
 ---
-title: Getting started with the Documentation Theme for Jekyll
-keywords: sample homepage
+title: cloud.ga.gov.au
+keywords: cloud ga geoscience australia
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
-## Download or clone the theme
+## Putting Science First at GA
 
-First download or clone the theme from the [Github repo](https://github.com/tomjohnson1492/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense.
+cloud.ga.gov.au is the repository for best practices across our teams. Our guides are open source, and you're free to use them as you wish. Our hope is that other digital service teams — both inside and outside the government — will adopt or modify the practices outlined here.
 
-## Build this theme
-
-If you're used to running Jekyll sites, you can type the normal jekyll command, `jekyll serve`, to build the Jekyll theme. However, if you're a new Jekyll user or if you run into issues, see the following two topics:
+## Best Practices
 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
+
+## Patterns
+
+## Tools
+
+* [Amazonia][amazonia_introduction]
+* [Toucan][toucan_introduction]
 
 {% include links.html %}
