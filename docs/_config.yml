@@ -37,6 +37,9 @@ navigation:
 - text: Agile
   url: agile_index
   internal: true
+- text: Cloud Security  
+  url: security 
+  internal: true
 - text: Tools
   url: tools
   internal: true
@@ -50,7 +53,3 @@ repos:
 
 # Style Variables
 brand_color: "#2cb34a"
-
-# Offline caching
-offline_cache: false
-cache_name: DOCter-v1.1
