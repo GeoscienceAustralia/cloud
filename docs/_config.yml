@@ -41,7 +41,7 @@ navigation:
   url: security/ 
   internal: true
 - text: Tools
-  url: tools
+  url: tools_index.html
   internal: true
 - text: Patterns
   url: patterns_index.html
