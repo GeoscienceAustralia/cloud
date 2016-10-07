@@ -5,7 +5,15 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 ---
+<!DOCTYPE html>
+<head> 
+     {% if page.url == "/404.html" %} 
+         <meta http-equiv="refresh" content="5; url=/"> 
+     {% endif %} 
+</head> 
 
+
+<body>
 ## Putting Science First at GA
 
 cloud.ga.gov.au is the repository for best practices across our teams. Our guides are open source, and you're free to use them as you wish. Our hope is that other digital service teams — both inside and outside the government — will adopt or modify the practices outlined here.
@@ -23,3 +31,5 @@ cloud.ga.gov.au is the repository for best practices across our teams. Our guide
 * [Toucan][toucan_introduction]
 
 {% include links.html %}
+
+</body>
