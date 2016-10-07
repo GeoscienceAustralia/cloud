@@ -19,8 +19,8 @@ cloud.ga.gov.au is the repository for best practices across our teams. Our guide
 
 ## Tools
 
-* [Amazonia][amazonia_introduction]
-* [Toucan][toucan_introduction]
+* [Amazonia][tools_amazonia_introduction]
+* [Toucan][tools_toucan_introduction]
 
 {% include links.html %}
 
