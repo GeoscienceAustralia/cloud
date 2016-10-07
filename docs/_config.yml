@@ -43,6 +43,12 @@ navigation:
 - text: Tools
   url: tools
   internal: true
+- text: Patterns
+  url: patterns_index.html
+  internal: true
+- text: Best Practices
+  url: best_practices_index.html
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
