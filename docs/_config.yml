@@ -22,7 +22,7 @@ baseurl: '/cloud'
 # Author/Organization info to be displayed in the templates
 author:
   name: GA Autobots
-  mailto: autobots@ga.gov.au
+  url: mailto:autobots@ga.gov.au
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
