@@ -54,7 +54,7 @@ navigation:
 # List repos that you would like to appear on the homepage here
 repos:
 - name: Amazonia
-  description: Cloudformation templating for AWS
+  description: AWS cfn templating in YAML
   url: https://github.com/geoscience-australia/amazonia
 
 # Style Variables
