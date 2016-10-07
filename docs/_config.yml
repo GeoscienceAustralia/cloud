@@ -38,7 +38,7 @@ navigation:
   url: agile_index
   internal: true
 - text: Cloud Security  
-  url: security 
+  url: security/ 
   internal: true
 - text: Tools
   url: tools
