@@ -49,6 +49,12 @@ navigation:
 - text: Best Practices
   url: best_practices_index.html
   internal: true
+- text: Open Source
+  url: open_source_index.html
+  internal: true
+- text: Lean
+  url: lean_index.html
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
