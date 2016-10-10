@@ -55,6 +55,9 @@ navigation:
 - text: Lean
   url: lean_index.html
   internal: true
+- text: Testing
+  url: testing_index.html
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
