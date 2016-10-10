@@ -4,7 +4,6 @@ layout: page
 permalink: agile_index.html
 ---
 
-# Introduction to Agile
 By definition, this agile guide is a work in progress. We welcome community participation.
 
 Historically, a majority of software development products have failed to actually be useful to real people or been over budget with missed deadlines.
