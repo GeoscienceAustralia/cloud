@@ -1,4 +1,10 @@
+---
+title: Data & records Policy
+layout: page
+permalink: data_index.html
+---
 
+<h2> things to include</h2>
 * data retention 
 * data archiving
 * data sharing
