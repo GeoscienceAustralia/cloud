@@ -8,28 +8,28 @@ Histroy:
 
 Discussed possible model structure 
 
-| JK                        | Y/N | CR                                              | Y/N |
-| ---                       | --- | ---                                             | --- |
-|                           |     | **_Policy Model_**                              |     |
-|                           |     | Data Policy                                     |     |
-|                           |     | Service Policy                                  |     |
-|                           |     | Business Process Management Policy              |     |
-|                           |     | Exit Policy                                     |     |
-|                           |     | **_Operation Model_**                           |     |
-|                           |     | Authentication                                  |     |
-|                           |     | Authorisation                                   |     |
-|                           |     | Audit                                           |     |
-|                           |     | Monitoring                                      |     |
-|                           |     | Adaptation / Transformation                     |     |
-|                           |     | Metadata repository                             |     |
-|                           |     | **_Management Model_**                          |     |
-|                           |     | Policy Management                               |     |
-|                           |     | Security Management                             |     |
-|                           |     | Intergration                                    |     |
-|                           |     | Service Management                              |     |
-|                           |     | Service Discovery                               |     |
-|                           |     | Risk Management                                 |     |
-|                           |     | Change Management                               |     |
+| ID  | JK                        | Y/N | CR                                              | Y/N |
+| --- |---                        | --- | ---                                             | --- |
+| 1   | Best Practices            |     | **_Policy Model_**                              |     |
+| 2   | Patterns                  |     | Data Policy                                     |     |
+| 3   | Tools                     |     | Service Policy                                  |     |
+| 4   | Security                  |     | Business Process Management Policy              |     |
+| 5   | Testing                   |     | Exit Policy                                     |     |
+| 6   | Agile                     |     | **_Operation Model_**                           |     |
+| 7   | Open Source               |     | Authentication                                  |     |
+| 8   | Lean                      |     | Authorisation                                   |     |
+| 9   |                           |     | Audit                                           |     |
+| 10  |                           |     | Monitoring                                      |     |
+| 11  |                           |     | Adaptation / Transformation                     |     |
+| 12  |                           |     | Metadata repository                             |     |
+| 13  |                           |     | **_Management Model_**                          |     |
+| 14  |                           |     | Policy Management                               |     |
+| 15  |                           |     | Security Management                             |     |
+| 16  |                           |     | Intergration                                    |     |
+| 17  |                           |     | Service Management                              |     |
+| 18  |                           |     | Service Discovery                               |     |
+| 19  |                           |     | Risk Management                                 |     |
+| 20  |                           |     | Change Management                               |     |
 
 
 
