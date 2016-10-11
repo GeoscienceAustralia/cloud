@@ -9,7 +9,7 @@ Histroy:
 Discussed possible model structure 
 
 | ID  | JK                        | Y/N | CR                                              | Y/N |
-| --- |---                        | --- | ---                                             | --- |
+|:---:| :------------------------ |:---:| :---------------------------------------------- |:---:|
 | 1   | Best Practices            |     | **_Policy Model_**                              |     |
 | 2   | Patterns                  |     | Data Policy                                     |     |
 | 3   | Tools                     |     | Service Policy                                  |     |
