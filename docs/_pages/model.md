@@ -4,9 +4,9 @@ layout: page
 permalink: model.html
 ---
 
-Histroy:
+History:
 
-Discussed possible model structure 
+Possible model structure 
 
 | ID  | JK                        | Y/N | CR                                              | Y/N |
 |:---:| :------------------------ |:---:| :---------------------------------------------- |:---:|
