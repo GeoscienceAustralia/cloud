@@ -1,4 +1,11 @@
 
+* data retention 
+* data archiving
+* data sharing
+* data classification
+* data backup
+
+
 <h2>Australian Government security classification system</h2>
 https://www.protectivesecurity.gov.au/informationsecurity/Pages/AustralianGovernmentSecurityClassificationSystem.aspx
 
