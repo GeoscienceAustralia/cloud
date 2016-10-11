@@ -39,7 +39,6 @@ navigation:
   internal: true
   children:
   - text: Best Practice Criteria
-    url: criteria_index.html
     internal: true
 - text: Patterns
   url: patterns_index.html
