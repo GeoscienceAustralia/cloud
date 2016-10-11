@@ -1,7 +1,7 @@
 ---
 title: Best Practice criteria
 layout: page
-permalink: /best_practices_index/criteria_index/
+permalink: criteria_index.html
 ---
 
 <h2>Criteria for Best Practices</h2>
