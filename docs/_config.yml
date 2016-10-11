@@ -49,6 +49,9 @@ navigation:
 - text: Data/Records policy  
   url: data_index.html
   internal: true
+- text: Auditing policy  
+  url: audit_index.html
+  internal: true
 - text: Testing
   url: testing_index.html
   internal: true
