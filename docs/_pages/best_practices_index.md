@@ -4,4 +4,4 @@ layout: page
 permalink: best_practices_index.html
 ---
 
-Introduction to best practices
+Introduction to best practices goes here
