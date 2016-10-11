@@ -39,7 +39,7 @@ navigation:
   internal: true
   children:
   - text: Best Practice Criteria
-    url: /best_practices_index/criteria_index.html
+    url: criteria_index/
     internal: true
 - text: Patterns
   url: patterns_index.html
