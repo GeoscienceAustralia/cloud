@@ -46,6 +46,9 @@ navigation:
 - text: Cloud Security  
   url: security_index.html
   internal: true
+- text: Data/Records policy  
+  url: data_index.html
+  internal: true
 - text: Testing
   url: testing_index.html
   internal: true
