@@ -33,3 +33,8 @@ The proposed practice must involve participation of the affected users.
 The proposed practice must have support from GA and all its staff.
 
 By definition, a “Best Practices” should meet at least the “effectiveness”, “efficiency” and “relevance” criteria in addition to one or more of the other criteria. A “Best Practice” needs not meet all the above criteria. This is because a “Best Practice” can be anything that works to produce results without using inordinate resources, in full or in part, and that can be useful in providing lessons learned.
+
+
+<h2>References</h2> 
+
+[Australian Department of Defence, Australian Signals Directorate - Australian Government information security manual](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf)
