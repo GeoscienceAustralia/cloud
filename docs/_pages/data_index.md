@@ -11,6 +11,9 @@ permalink: data_index.html
 * data classification
 * data backup
 
+<h2>Data Migration Best Practice</h2>
+[AWS Database Migration best practice](https://d0.awsstatic.com/whitepapers/RDS/AWS_Database_Migration_Service_Best_Practices.pdf)
+
 <h2>Protecting Data at Rest</h2>
 GA recommends that you protect your data at rest stored in Amazon S3, on Amazon EBS, Amazon RDS, or other services from AWS.
 
