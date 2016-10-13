@@ -13,14 +13,14 @@ GA believes that identifying “Best Practices” involves sound judgement, rese
 
 | | |
 |---|---|
-| Effectiveness:	| This is a fundamental criterion implicit in the definition. The practice must work and achieve results that are measurable. |
-| Efficiency:	| The recommended practices must produce results with a reasonable level of resources and time. |
-| Relevance:	| The recommended practices must address the practices of use within a cloud environment. |
-| Sustainability:	| The recommended practices must be implementable over a extended period of time without any massive injection of additional resources.|
-| Possibility of duplication:	| The recommended practices, as carried out, must be replicable in any IT cloud environment. |
-| Involvement of community:	| The recommended practices must involve satisfactory collaboration between those in the community. |
-| Community involvement:	| The recommended practices must involve participation of the affected users. |
-| Organisational commitment:	| The recommended practices must have support from GA and its entire staff. |
+| **Effectiveness:**	| *This is a fundamental criterion implicit in the definition. The practice must work and achieve results that are measurable.* |
+| **Efficiency:**	| *The recommended practices must produce results with a reasonable level of resources and time.* |
+| **Relevance:**	| *The recommended practices must address the practices of use within a cloud environment.* |
+| **Sustainability:**	| *The recommended practices must be implementable over a extended period of time without any massive injection of additional resources.*|
+| **Possibility of duplication:**	| *The recommended practices, as carried out, must be replicable in any IT cloud environment.* |
+| **Involvement of community:**	| *The recommended practices must involve satisfactory collaboration between those in the community.* |
+| **Community involvement:**	| *The recommended practices must involve participation of the affected users.* |
+| **Organisational commitment:**	| *The recommended practices must have support from GA and its entire staff.* |
 
 By definition, a “Best Practices” should meet at least the “effectiveness”, “efficiency” and “relevance” criteria in addition to one or more of the other criteria. A “Best Practice” needs not meet all the above criteria. This is because a “Best Practice” can be anything that works to produce results without using inordinate resources, in full or in part.
  
