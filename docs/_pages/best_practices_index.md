@@ -41,7 +41,7 @@ To help maintain a community standard within the cloud environments, GA recommen
         <img src="" width="25px" alt="">
       </li>
         <li>
-          <a href="/_pages/tools_index.md">
+          <a href="/cloud/_pages/tools_index.html">
             <h4>Tools</h4>
             <p>Recommended Tool sets</p>
           </a>
@@ -52,7 +52,7 @@ To help maintain a community standard within the cloud environments, GA recommen
         <img src="" width="25px" alt="">
       </li>
         <li>
-          <a href="/_pages/patterns_index.md">
+          <a href="/cloud/_pages/patterns_index.html">
             <h4>Patterns</h4>
             <p>GA endorsed Patterns</p>
           </a>
@@ -68,7 +68,7 @@ Ensuring that your project, data and environment is secure and running the way y
         <img src="" width="25px" alt="">
       </li>
         <li>
-          <a href="/_pages/security_index.md">
+          <a href="/cloud/_pages/security_index.html">
             <h4>Security</h4>
             <p></p>
           </a>
@@ -79,7 +79,7 @@ Ensuring that your project, data and environment is secure and running the way y
         <img src="" width="25px" alt="">
       </li>
         <li>
-          <a href="/_pages/audit_index.md">
+          <a href="/cloud/_pages/audit_index.html">
             <h4>Auditing</h4>
             <p></p>
           </a>
@@ -90,7 +90,7 @@ Ensuring that your project, data and environment is secure and running the way y
         <img src="" width="25px" alt="">
       </li>
         <li>
-          <a href="/_pages/data_index.md">
+          <a href="/cloud/_pages/data_index.html">
             <h4>Data</h4>
             <p></p>
           </a>
