@@ -38,21 +38,20 @@ To help maintain a community standard within the cloud environments, GA recommen
 <section id="repositories">
   <ul class="repo-list group">
       <li class="list-icon">
-        <img src="assets/img/octocat.png" width="25px" alt="">
+        <img src="" width="25px" alt="">
       </li>
         <li>
           <a href="">
             <h4>Tools</h4>
             <p>List of Tools</p>
           </a>
+          <a href="">
+            <h4>Patterns</h4>
+            <p>List of Tools</p>
+          </a>
          </li>
      </ul>
 </section>
-
-> **Tools, {link}** 
-
-> **Patterns, {link}** 
-
 
 Ensuring that your project, data and environment is secure and running the way you and GA expect it should, GA recommends consulting the GA best practices for Security, auditing and data, these recommendations have been based around industry and government standards, and are proven practices.  
 
