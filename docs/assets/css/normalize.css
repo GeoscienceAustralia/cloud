@@ -403,7 +403,7 @@ textarea {
 table {    
    border-collapse: collapse;    
    border-spacing: 0;    
-   border: 0px solid #ddd;
+   border: 1px solid #ddd;
 }
 
 td {    
