@@ -35,8 +35,8 @@ Collaboration and innovation in an agile environment is seen by GA as an importa
 
 To help maintain a community standard within the cloud environments, GA recommends the use of a particular set of tools and patterns, these have been selected to kick start and continue innovation and improve community collaboration.   
 
-**Tools, {link}**
-**Patterns, {link}**
+> **Tools, {link}**
+> **Patterns, {link}**
 
 
 Ensuring that your project, data and environment is secure and running the way you and GA expect it should, GA recommends consulting the GA best practices for Security, auditing and data, these recommendations have been based around industry and government standards, and are proven practices.  
