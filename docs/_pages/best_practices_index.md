@@ -43,7 +43,7 @@ To help maintain a community standard within the cloud environments, GA recommen
         <li>
           <a href="">
             <h4>Tools</h4>
-            <p>Reccommended Tool sets</p>
+            <p>Recommended Tool sets</p>
           </a>
          </li>
       </ul>
@@ -62,11 +62,41 @@ To help maintain a community standard within the cloud environments, GA recommen
 
 Ensuring that your project, data and environment is secure and running the way you and GA expect it should, GA recommends consulting the GA best practices for Security, auditing and data, these recommendations have been based around industry and government standards, and are proven practices.  
 
-> **Security, {link}**
-
-> **Auditing, {link}**
-
-> **Data, {link}**
+<section id="repositories">
+  <ul class="repo-list group">
+      <li class="list-icon">
+        <img src="" width="25px" alt="">
+      </li>
+        <li>
+          <a href="">
+            <h4>Security</h4>
+            <p></p>
+          </a>
+         </li>
+      </ul>
+     <ul class="repo-list group">
+      <li class="list-icon">
+        <img src="" width="25px" alt="">
+      </li>
+        <li>
+          <a href="">
+            <h4>Auditing</h4>
+            <p></p>
+          </a>
+         </li>
+     </ul>
+    <ul class="repo-list group">
+      <li class="list-icon">
+        <img src="" width="25px" alt="">
+      </li>
+        <li>
+          <a href="">
+            <h4>Data</h4>
+            <p></p>
+          </a>
+         </li>
+     </ul>
+</section>
 
 GA actively seeks community input to developing GA cloud best practices. Seeking community input will create an ever evolving and fine-tuned set of standards that will alleviate hindrances from projects and environments but improves on them, ultimately achieving GA project goals.   
 
