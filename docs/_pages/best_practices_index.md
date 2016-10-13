@@ -11,14 +11,17 @@ Geoscience Australia (GA), presents a set of best practices that will allow the 
 
 GA believes that identifying “Best Practices” involves sound judgement, research and collaboration. Such judgements require prior analysis using the following set of criteria: effectiveness, efficiency, relevance, sustainability, possibility of duplication, partnership, community involvement, and organisational commitment. It’s this criterion that has set the fundamental framework to governor the way GA can effectively develop and collaborate within a cloud environment.
 
-Effectiveness:	This is a fundamental criterion implicit in the definition. The practice must work and achieve results that are measurable.
-Efficiency:	The recommended practices must produce results with a reasonable level of resources and time.
-Relevance:	The recommended practices must address the practices of use within a cloud environment.
-Sustainability:	The recommended practices must be implementable over a extended period of time without any massive injection of additional resources.
-Possibility of duplication:	The recommended practices, as carried out, must be replicable in any IT cloud environment.
-Involvement of community:	The recommended practices must involve satisfactory collaboration between those in the community.
-Community involvement:	The recommended practices must involve participation of the affected users.
-Organisational commitment:	The recommended practices must have support from GA and its entire staff.
+| | |
+|---|---|
+| Effectiveness:	| This is a fundamental criterion implicit in the definition. The practice must work and achieve results that are measurable. |
+| Efficiency:	| The recommended practices must produce results with a reasonable level of resources and time. |
+| Relevance:	| The recommended practices must address the practices of use within a cloud environment. |
+| Sustainability:	| The recommended practices must be implementable over a extended period of time without any massive injection of additional resources.|
+| Possibility of duplication:	| The recommended practices, as carried out, must be replicable in any IT cloud environment. |
+| Involvement of community:	| The recommended practices must involve satisfactory collaboration between those in the community. |
+| Community involvement:	| The recommended practices must involve participation of the affected users. |
+| Organisational commitment:	| The recommended practices must have support from GA and its entire staff. |
+
 By definition, a “Best Practices” should meet at least the “effectiveness”, “efficiency” and “relevance” criteria in addition to one or more of the other criteria. A “Best Practice” needs not meet all the above criteria. This is because a “Best Practice” can be anything that works to produce results without using inordinate resources, in full or in part.
  
 <h2>Implementation of Practice</h2> 
@@ -54,6 +57,6 @@ GA actively seeks community input to developing GA cloud best practices. Seeking
 
 <h2>Further reading</h2> 
 
-[Australian Department of Defence, Australian Signals Directorate - Australian Government information security manual](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf)
+[Australian Government information security manual](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf)
 <br>
 [AWS Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
