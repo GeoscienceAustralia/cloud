@@ -45,6 +45,11 @@ To help maintain a community standard within the cloud environments, GA recommen
             <h4>Tools</h4>
             <p>List of Tools</p>
           </a>
+         </li>
+      <li class="list-icon">
+        <img src="" width="25px" alt="">
+      </li>
+        <li>
           <a href="">
             <h4>Patterns</h4>
             <p>List of Tools</p>
