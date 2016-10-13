@@ -110,4 +110,5 @@ GA actively seeks community input to developing GA cloud best practices. Seeking
 <h2>Further reading</h2> 
 
 [1. Australian Government information security manual](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf)
+
 [2. AWS Best Practices](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
