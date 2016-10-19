@@ -6,6 +6,9 @@ permalink: tools_index.html
 
 ### I want to...
 
+* Ask questions and learn more:
+  * [Slack](https://geoscience-australia.slack.com/signup)
+
 * Create an AWS Cloudformation stack:
   * [Amazonia](https://github.com/GeoscienceAustralia/Amazonia)
   
