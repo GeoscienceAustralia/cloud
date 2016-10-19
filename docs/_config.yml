@@ -34,12 +34,18 @@ navigation:
 - text: Home
   url: ./
   internal: true
+- text: Patterns
+  url: patterns_index.html
+  internal: true
 - text: Best Practices
   url: best_practices_index.html
   internal: true
-  children:
-  - text: Best Practice Criteria
-    internal: true
+- text: Security  
+  url: security_index.html
+  internal: true
+- text: Tools
+  url: tools_index.html
+  internal: true
 - text: Agile
   url: agile_index.html
   internal: true
@@ -49,26 +55,8 @@ navigation:
 - text: Lean
   url: lean_index.html
   internal: true
-- text: Patterns
-  url: patterns_index.html
-  internal: true
-- text: Tools
-  url: tools_index.html
-  internal: true
-- text: Cloud Security  
-  url: security_index.html
-  internal: true
-- text: Data/Records policy  
-  url: data_index.html
-  internal: true
-- text: Auditing policy  
-  url: audit_index.html
-  internal: true
 - text: Testing
   url: testing_index.html
-  internal: true
-- text: History
-  url: model.html
   internal: true
 
 # Repo list
