@@ -400,7 +400,16 @@ textarea {
  * Remove most spacing between table cells.
  */
 
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
+table {    
+   border-collapse: collapse;    
+   border-spacing: 0;    
+   border: 0px solid #ddd;
+}
+
+td {    
+   border: 1px solid #ddd;
+}
+
+th {    
+   border: 0px solid #ddd;
 }
