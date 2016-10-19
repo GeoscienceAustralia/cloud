@@ -4,7 +4,7 @@ layout: page
 permalink: security_index.html
 ---
 
-# So I've got an AWS space...
+### So I've got an AWS space...
 
 * Have you enabled Multi-Factor Authentication (MFA) on all user accounts in your space? [https://aws.amazon.com/iam/details/mfa/]
 * Are you running Cloudsploit regularly to audit your space? [https://github.com/GeoscienceAustralia/cloudsploit-lambda]

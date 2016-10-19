@@ -4,7 +4,7 @@ layout: page
 permalink: agile_index.html
 ---
 
-# Introduction
+### Introduction
 
 At GA, we're finding that the values of the [Agile Manifesto](http://agilemanifesto.org/) are resulting in positive changes for individuals, teams, and projects:
 * Individuals and interactions over processes and tools
@@ -22,7 +22,7 @@ The central tenets of this approach are:
 * Measure success
 * Reflect, adjust, iterate
 
-# Practices
+### Practices
 
 A number of teams follow some Agile 'rituals':
 * Standups

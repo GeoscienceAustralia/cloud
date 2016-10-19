@@ -4,8 +4,7 @@ layout: page
 permalink: tools_index.html
 ---
 
-# Quickstart
-I want to...
+### I want to...
 
 * Create an AWS Cloudformation stack:
   * [Amazonia](https://github.com/GeoscienceAustralia/Amazonia)

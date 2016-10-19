@@ -4,7 +4,7 @@ layout: page
 permalink: lean_index.html
 ---
 
-# Introduction
+### Introduction
 
 Lean manufacturing is all about reducing waste. It's about making obvious what adds value by reducing everything else.
 
