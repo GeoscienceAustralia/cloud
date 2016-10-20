@@ -62,9 +62,12 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Amazonia
-  description: AWS cfn templating in YAML
-  url: https://github.com/geoscienceaustralia/amazonia
+- name: GitHub
+  description: GA's Public Repositories
+  url: https://github.com/geoscienceaustralia/
+- name: Bitbucket
+  description: GA's Private Repositories
+  url: https://bitbucket.com/geoscienceaustralia/
 
 # Style Variables
 brand_color: "#2cb34a"
