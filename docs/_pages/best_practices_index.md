@@ -1,5 +1,5 @@
 ---
-title: Geoscience Australia Best practice to cloud computing
+title: Best Practices
 layout: page
 permalink: best_practices_index.html
 ---
