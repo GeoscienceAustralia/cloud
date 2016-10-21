@@ -1,12 +1,12 @@
 ---
-title: Geoscience Australia Best practice to cloud computing
+title: Best Practices
 layout: page
 permalink: best_practices_index.html
 ---
 
-### Best Practices 101
+### 101
 
-We value collaboration, openness, and innovation.
+We value collaboration, openness, and innovation. We back ourselves to make the best decisions for GA.
 
 ### Tools
 
