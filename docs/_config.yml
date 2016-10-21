@@ -58,6 +58,9 @@ navigation:
 - text: Testing
   url: testing_index.html
   internal: true
+- text: Data
+  url: data_index.html
+  internal: true
 
 # Style Variables
 brand_color: "#2cb34a"
