@@ -11,20 +11,20 @@ Developers at GA are encouraged to have wide test coverage of all systems they a
 ### Python
 
 You might want to check out:
-* (nose)[https://nose.readthedocs.org/en/latest/]
-* (pytest)[https://pytest.org/latest/]
-* (unittest)[https://docs.python.org/3.4/library/unittest.html]
-* (doctest)[https://docs.python.org/3.4/library/doctest.html]
+* [nose](https://nose.readthedocs.org/en/latest/)
+* [pytest](https://pytest.org/latest/)
+* [unittest](https://docs.python.org/3.4/library/unittest.html)
+* [doctest](https://docs.python.org/3.4/library/doctest.html)
 
 Or have a look at:
-* [http://docs.python-guide.org/en/latest/writing/tests/]
-* [http://pythontesting.net]
+* [Python Guide](http://docs.python-guide.org/en/latest/writing/tests/)
+* [Python Testing](http://pythontesting.net)
 
 ### Javascript
 
 You might want to check out:
-* (mocha)[http://mochajs.org/]
-* (jasmine)[https://github.com/jasmine/jasmine]
+* [mocha](http://mochajs.org/)
+* [jasmine](https://github.com/jasmine/jasmine)
 
 ### Conclusion
 
