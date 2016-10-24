@@ -34,6 +34,9 @@ navigation:
 - text: Home
   url: ./
   internal: true
+- text: Getting Started
+  url: getting_started_index.html
+  internal: true
 - text: Patterns
   url: patterns_index.html
   internal: true
