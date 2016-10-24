@@ -11,6 +11,7 @@ As much as possible, our software development projects should be open source and
 ### Software we use
 
 Using open source software has a number of benefits for GA staff, including:
+
 * Increased interoperability from use of open standards
 * Fewer restrictions on software use
 * Ability to scrutinise code, leading to increased security and stability
