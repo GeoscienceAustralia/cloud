@@ -15,6 +15,8 @@ At GA, we're finding that the values of the [Agile Manifesto](http://agilemanife
 
 This is an iterative, incremental approach to development, and one which encourages and empowers individuals to contribute.
 
+### Ideas
+
 The central tenets of this approach are:
 
 * Work with your target audience
