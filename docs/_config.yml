@@ -47,8 +47,11 @@ navigation:
   url: security_index.html
   internal: true
 - text: Tools
-  url: tools_index.html
+  url: /tools
   internal: true
+  - text: Supported Tools
+    url: supported_tools.html
+    internal: true
 - text: Agile
   url: agile_index.html
   internal: true
