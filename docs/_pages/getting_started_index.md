@@ -10,9 +10,9 @@ permalink: getting_started_index.html
 2. Get an account in the AWS Dev space - send a Slack message or an email to the Autobots to get the ball rolling.
 3. Create an AWS space for your project. There's a page about this in Confluence (and the Autobots can help out). To begin with, you'll need:
   * A name for your account - it should be 'ga-aws-(up to 12 characters)'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
-  * A mailbox. It should be the same name as above - i.e. ga-aws-bumblebee@ga.gov.au. Raise a request to the support desk for this.
-  * Financial approval from your delegate.
-4. You can begin the [sign up process with AWS](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct), but remember not to enter your payment information! You'll need to get your new account added to GA's Consolidated Billing first. Send out a Slack message or email the Autobots to get this done.
+  * A mailbox. It should be the same name as above - i.e. ga-aws-bumblebee@ga.gov.au. Raise a request to the IT support desk for this. 
+  * Financial approval and cost/activity code from your delegate.
+4. You can begin the [sign up process with AWS] (https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct), but remember not to enter your payment information! You'll need to get your new account added to GA's Consolidated Billing first. Send out a Slack message or email the Autobots to get this done.
 5. Email GA's AWS account manager to get your account converted to invoicing. If you don't know who this is - you guessed it, turn to Slack or the Autobots. :)
 
 ### Getting started with Continuous Delivery
