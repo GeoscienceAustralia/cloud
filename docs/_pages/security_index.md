@@ -4,6 +4,10 @@ layout: page
 permalink: security_index.html
 ---
 
+### So I'm writing code...
+* Have you had a look at the [OWASP Top 10](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)?
+* Have you checked out the [CWE Top 25](http://cwe.mitre.org/top25/index.html#Listing)?
+
 ### So I've got an AWS space...
 
 * Have you enabled [Multi-Factor Authentication](https://aws.amazon.com/iam/details/mfa/) on all user accounts in your space?
