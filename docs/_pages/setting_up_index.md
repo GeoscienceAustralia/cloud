@@ -1,15 +1,15 @@
 ---
-title: Getting Started
+title: Setting Up
 layout: page
 permalink: setting_up_index.html
 ---
 
-### Getting started
+### First steps
 
 1. Join [Slack](https://geoscience-australia.slack.com/signup), our messaging app. It's a great place to ask questions.
 2. Join the #awscop and #autobots channels to chat with experts from across GA.
 
-### Getting started on AWS
+### Setting up AWS
 
 If you just want to experiment with AWS, you should get an account in the AWS Dev space. Send a Slack message or an email to the Autobots to get the ball rolling.
 
@@ -26,7 +26,7 @@ If you have an application that will eventually become a production service, you
 4. Rename your space from its account number to 'ga-aws-_____'.
 5. Add MFA to your root account.
 
-### Getting started with Continuous Delivery
+### Setting up Continuous Delivery
 
 1. Make sure your code is in version control in Github or Bitbucket.
 2. Get started with your pipeline:
