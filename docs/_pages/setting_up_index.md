@@ -18,8 +18,14 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 If you have an application that will eventually become a production service, you should:
 
 1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):
-  * The name for your account should be 'ga-aws-(up to 12 characters)'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
-  * The email can either be a shared GA mailbox (contact the Service Desk) or ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). This email address forwards to the Autobots' GA mailbox.
+  * The name for your account should be 'ga-aws-________'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
+  * The email can be either:
+  
+    A shared GA mailbox (contact the Service Desk - note that this can take some time to create).
+  
+    OR
+  
+    ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). Email from this account forwards to the Autobots.
   * Financial approval and cost/activity code from your delegate.
 2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
 3. If you used a GA mailbox, click the link from Consolidated Billing.
@@ -31,4 +37,4 @@ If you have an application that will eventually become a production service, you
 1. Make sure your code is in version control in Github or Bitbucket.
 2. Get started with your pipeline:
   * If you're using Github, you'll be using [TravisCI](https://travis-ci.org/). Start by adding a .travis.yml to your repository.
-  *  If you're using Bitbucket, you'll be using [Bitbucket Pipelines](https://confluence.atlassian.com/bitbucket/get-started-with-bitbucket-pipelines-792298921.html). This link has all the information you need to get started.
+  * If you're using Bitbucket, you'll be using [Bitbucket Pipelines](https://confluence.atlassian.com/bitbucket/get-started-with-bitbucket-pipelines-792298921.html). This link has all the information you need to get started.
