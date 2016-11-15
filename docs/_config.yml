@@ -52,9 +52,6 @@ navigation:
 - text: Tools
   url: /tools
   internal: true
-  - text: Supported Tools
-    url: supported_tools.html
-    internal: true
 - text: Agile
   url: agile_index.html
   internal: true
