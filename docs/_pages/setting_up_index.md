@@ -45,7 +45,6 @@ If you have an application that will eventually become a production service, you
  * Company Name and Details as below:
  
    > Company Name: Geoscience Australia 
-   
    > Country: Australia
    > Address: GPO Box 378 
    > City: Canberra
