@@ -17,16 +17,20 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 
 If you have an application that will eventually become a production service, you should create a stand-alone account.  
 
-**Information you will need**  
- > Approval from the relevant section leader/financial delegate  
- > A valid GA Credit Card for step 5.  
- > GA Cost and Activity Codes  
+Information you will need  
+  > Approval from the relevant section leader/financial delegate  
+> A valid GA Credit Card for step 5.  
+> GA Cost and Activity Codes  
+> The name for your Account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
 
 1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):  
  * Click on the "Sign Up Now" button - then select the "I am a new user" option.  
  * Enter a valid email address - this should be either:  
  
-   > A shared GA mailbox (contact the Service Desk - note that this can take some time to create), **OR**  
+   > A shared GA mailbox (contact the Service Desk - note that this can take some time to create),  
+   > The new mailbox should be named 
+   >  
+   > **OR**  
    >
    > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com).  
    > Email from this account forwards to the Autobots.  
@@ -73,9 +77,20 @@ If you have an application that will eventually become a production service, you
  * Step 1 of 2 - Enter Credit Card Details  
  * Step 2 of 2 - select 'use contact address' tick box and click 'Continue'  
 
-6. Add account to Consolidated Billing:  
+6. Sign up for Consolidated Billing:  
  * Select 'My Billing Dashboard' from drop down menu under the Account Name - top right of window.  
  * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'  
+ * You may be asked to Verify your Identity - this is done via an automated phone call
+   > A new browser tab will be opened  
+   > Enter the capta text and a valid phone number  
+   > A Code Number will be displayed and AWS will call the number provided.
+   > Enter the code number via the key pad - the web page will automatically update  
+   > Click the 'Continue to Support Plan' button, select the default 'Basic' option and click 'Continue'  
+   > Registration should now be complete - close this window and click back to the Billing Management Tab
+   
+ * Refresh the page and click 'Sign up for Consolidated Billing'  
+   > An email will be sent to the 
+   
  
 
 * Financial approval and cost/activity code from your delegate.
