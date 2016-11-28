@@ -30,16 +30,33 @@ If you have an application that will eventually become a production service, you
   
   * Click the "Sign in using our secure server" button to creat a new account.
  
-2. Login Credentials
+2. Login Credentials:
  * My Name is: 
   
    > The name for your account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
    
   * My e-mail address: same as used in previous step
   * Enter a password (and remember it for later!)
+  * Click "Create Account" button
+  
+3. Contact Information:
+ * Select "Company Account" radio button
+ * Full Name is account name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
+ * Company Name and Details as below:
  
- * The name for your account should be 'ga-aws-________'. For example, 'ga-aws-bumblebee' for the Bumblebee project.*
- * Financial approval and cost/activity code from your delegate.
+  > Company Name: Geoscience Australia
+  > Country: Australia
+  > Address: GPO Box 378
+  > City: Canberra
+  > State: ACT
+  > Post Code: 2601
+  > Phone: +61 2 6249 9111
+  
+ * Complete the Capta Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"
+ 
+
+
+* Financial approval and cost/activity code from your delegate.
 2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
 3. If you used a GA mailbox, click the link from Consolidated Billing.
 4. Rename your space from its account number to 'ga-aws-_____'.
