@@ -19,12 +19,25 @@ If you have an application that will eventually become a production service, you
 
 1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):
  * Click on the "Sign Up Now" button - then select the "I am a new user" option.
- * The email can be either:
+ * Enter a valid email address - this should be either:
  
    > A shared GA mailbox (contact the Service Desk - note that this can take some time to create), **OR**
    >
-   > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). Email from this account forwards to the Autobots
+   > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). 
+   > Email from this account forwards to the Autobots.
+   >
+   > The Contact Email and some other details can be changed later on the My Account page/Account Settings using the root account.
   
+  * Click the "Sign in using our secure server" button to creat a new account.
+ 
+ 2. Login Credentials
+  * My Name is: 
+  
+   > The name for your account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
+   
+  * My e-mail address: same as used in previous step
+  * Enter a password (and remember it for later!)
+ 
  * The name for your account should be 'ga-aws-________'. For example, 'ga-aws-bumblebee' for the Bumblebee project.*
  * Financial approval and cost/activity code from your delegate.
 2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
