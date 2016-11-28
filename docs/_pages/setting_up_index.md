@@ -31,7 +31,7 @@ If you have an application that will eventually become a production service, you
    > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). 
    > Email from this account forwards to the Autobots.
    >
-   > The Contact Email and some other details can be changed later on the My Account page/Account Settings using the root account.
+   > The Contact Email and some other details can be changed later on the My Account page/Account Settings using the root account.  
   
   * Click the "Sign in using our secure server" button to creat a new account.
  
