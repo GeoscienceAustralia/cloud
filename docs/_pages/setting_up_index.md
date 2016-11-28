@@ -17,18 +17,28 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 
 If you have an application that will eventually become a production service, you should create a stand-alone account.  
 
-Information you will need  
-  > Approval from the relevant section leader/financial delegate  
-> A valid GA Credit Card for step 5.  
-> GA Cost and Activity Codes  
-> The name for your Account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
+1. Information you will need  
+  * Approval from the relevant section leader/financial delegate  
+  * A valid GA Credit Card for step 6.  
+  * GA Cost and Activity Codes  
+  * The name for your Account - this should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project. Maximum of 10 characters for a total of 17 characters overall. The Account Name can also be used as an email at step 2.  
+  * This information will need to be sent to the Cloud Enablement team ('Autobots') for them to complete the Consolidate Billing process:  
+  > Hi Autobots!  
+  > I want to create a new AWS Space called: GA-AWS-GNSPROCESS  
+  > The space will be used for: Processing of GNSS data received from...
+  > The section lead is:  John Doe.  
+  > Cost/Activity Codes: 1234/5678
+  > I will send through account details once created.  
+  > Regards, Account Owner...
 
-1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):  
+2. Create an [AWS account](https://aws.amazon.com/resources/create-account/):  
  * Click on the "Sign Up Now" button - then select the "I am a new user" option.  
  * Enter a valid email address - this should be either:  
  
-   > A shared GA mailbox (contact the Service Desk - note that this can take some time to create),  
-   > The new mailbox should be named 
+   > A shared GA mailbox (contact the Service Desk - note that this can take some time to create).  
+   > The IT Service Desk will need the following information:    
+   > Mailbox Name: this should be the Account Name from step 1 with the GA domain - eg. ga-aws-bumblebee@ga.gov.au  
+   > Mailbox Members: should include the relevant Divisional Information Officer (DIO) for the project, The Business Team or Section Lead, the Tecnical Lead, and the Autobots (James Kingsmill and Scott McLauchlan)
    >  
    > **OR**  
    >
@@ -39,18 +49,16 @@ Information you will need
   
  * Click the "Sign in using our secure server" button to creat a new account.  
  
-2. Login Credentials:
- * My Name is: this will be the **Account Name**
-  
-   > The name for your Account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
+3. Login Credentials:
+ * My Name is: this will be the **Account Name** from step 1.  
    
  * My e-mail address: same as used in previous step  
  * Enter a password (and remember it for later!)
  * Click "Create Account" button
   
-3. Contact Information:
+4. Contact Information:
  * Select "Company Account" radio button
- * Full Name is the Account Name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
+ * Full Name is the **Account Name** from step 1.
  * Company Name and Details as below:  
    > Company Name: Geoscience Australia  
    > Country: Australia  
@@ -63,13 +71,12 @@ Information you will need
  * Complete the Capta Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"  
  * Welcome to Amazon Web Services page - click 'Launch Management Console' button  
 
-4. Sign In to new account:
+5. Sign In to new account:
  * My e-mail address: same as used previously  
  * Select 'I am a returning user' and enter the password  
  * click 'Sign in using our secure server'  
  
-5. Add Credit Card to secure charges:  
-
+6. Add Credit Card to secure charges:  
  > To cover any charges, AWS requires a credit card to secure the account initially. 
  > The next step will request the new account to be assigned to GA's Consolidated Billing account. 
  > Any credit charges should be minimal (less than $10 in the first month) however this needs to be agreed to by the GA Credit Card holder and the relevant financial delegate.
@@ -77,7 +84,7 @@ Information you will need
  * Step 1 of 2 - Enter Credit Card Details  
  * Step 2 of 2 - select 'use contact address' tick box and click 'Continue'  
 
-6. Sign up for Consolidated Billing:  
+7. Sign up for Consolidated Billing:  
  * Select 'My Billing Dashboard' from drop down menu under the Account Name - top right of window.  
  * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'  
  * You may be asked to Verify your Identity - this is done via an automated phone call
@@ -89,9 +96,10 @@ Information you will need
    > Registration should now be complete - close this window and click back to the Billing Management Tab
    
  * Refresh the page and click 'Sign up for Consolidated Billing'  
-   > An email will be sent to the 
+   > An email will be sent to the 'Autobots' Cloud Enablement team who will login to the GA Consolidated Billing account and add the new AWS Account.  
+   > You will receive an email to accept Consolidated Billing.
    
- 
+8.  
 
 * Financial approval and cost/activity code from your delegate.
 2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
