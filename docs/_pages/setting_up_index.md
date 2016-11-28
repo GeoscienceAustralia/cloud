@@ -30,8 +30,8 @@ If you have an application that will eventually become a production service, you
   
   * Click the "Sign in using our secure server" button to creat a new account.
  
- 2. Login Credentials
-  * My Name is: 
+2. Login Credentials
+ * My Name is: 
   
    > The name for your account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
    
