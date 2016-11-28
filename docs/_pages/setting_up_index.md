@@ -44,9 +44,9 @@ If you have an application that will eventually become a production service, you
  * Full Name is account name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
  * Company Name and Details as below:
  
-  > Company Name: Geoscience Australia
-  > Country: Australia
-  > Address: GPO Box 378
+  > Company Name: Geoscience Australia 
+  > Country: Australia 
+  > Address: GPO Box 378 
   > City: Canberra
   > State: ACT
   > Post Code: 2601
