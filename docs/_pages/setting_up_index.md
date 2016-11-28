@@ -43,9 +43,18 @@ If you have an application that will eventually become a production service, you
  * Select "Company Account" radio button
  * Full Name is account name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
  * Company Name and Details as below: 
+ <table>
+    <tr>
+        <td>Company Name: </td><td>Geoscience Australia</td>
+    </tr>
+    <tr>
+        <td>Country:</td>
+        <td>Australia</td>
+    </tr>
+ </table>
  
-   > Company Name: Geoscience Australia
-   > Country: Australia
+   > 
+   >  Australia
    
  * Complete the Capta Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"
  
