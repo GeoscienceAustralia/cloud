@@ -22,7 +22,7 @@ If you have an application that will eventually become a production service, you
  * The email can be either:
  
    > A shared GA mailbox (contact the Service Desk - note that this can take some time to create), **OR**
-   
+   >
    > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). Email from this account forwards to the Autobots
   
  * The name for your account should be 'ga-aws-________'. For example, 'ga-aws-bumblebee' for the Bumblebee project.*
