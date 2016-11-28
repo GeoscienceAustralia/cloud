@@ -25,9 +25,9 @@ If you have an application that will eventually become a production service, you
   
     OR
   
-    ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). Email from this account forwards to the Autobots.
-  * The name for your account should be 'ga-aws-________'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
-  * Financial approval and cost/activity code from your delegate.
+    ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). Email from this account forwards to the Autobots
+    * The name for your account should be 'ga-aws-________'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
+    * Financial approval and cost/activity code from your delegate.
 2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
 3. If you used a GA mailbox, click the link from Consolidated Billing.
 4. Rename your space from its account number to 'ga-aws-_____'.
