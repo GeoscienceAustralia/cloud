@@ -42,7 +42,8 @@ If you have an application that will eventually become a production service, you
 3. Contact Information:
  * Select "Company Account" radio button
  * Full Name is account name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
- * Company Name and Details as below:
+ * Company Name and Details as below: 
+ 
    > Company Name: Geoscience Australia
    > Country: Australia
    
