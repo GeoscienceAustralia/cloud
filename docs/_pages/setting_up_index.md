@@ -15,7 +15,12 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 
 ### Create an AWS space
 
-If you have an application that will eventually become a production service, you should:
+If you have an application that will eventually become a production service, you should create a stand-alone account.  
+
+**Information you will need**  
+ > Approval from the relevant section leader/financial delegate
+ > A valid GA Credit Card for step 5.
+ > GA Cost and Activity Codes
 
 1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):
  * Click on the "Sign Up Now" button - then select the "I am a new user" option.
@@ -31,9 +36,9 @@ If you have an application that will eventually become a production service, you
   * Click the "Sign in using our secure server" button to creat a new account.
  
 2. Login Credentials:
- * My Name is: 
+ * My Name is: this will be the **Account Name**
   
-   > The name for your account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
+   > The name for your Account should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project.
    
   * My e-mail address: same as used in previous step
   * Enter a password (and remember it for later!)
@@ -41,19 +46,34 @@ If you have an application that will eventually become a production service, you
   
 3. Contact Information:
  * Select "Company Account" radio button
- * Full Name is account name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
+ * Full Name is the Account Name you created in prevous step - eg 'GA-AWS-BUMBLEBEE'
  * Company Name and Details as below:  
    > Company Name: Geoscience Australia  
    > Country: Australia  
    > Address: GPO Box 378  
    > City: Canberra  
    > State: ACT  
-   > Post Code: 2601
+   > Post Code: 2601  
    > Phone: +61 2 6249 9111  
    
- * Complete the Capta Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"
- 
+ * Complete the Capta Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"  
+ * Welcome to Amazon Web Services page - click 'Launch Management Console' button  
 
+4. Sign In to new account:
+ * My e-mail address: same as used previously  
+ * Select 'I am a returning user' and enter the password  
+ * click 'Sign in using our secure server'  
+ 
+5. Add Credit Card to secure charges:  
+ > To cover any charges, AWS requires a credit card to secure the account initially. The next step will request the new account to be assigned to GA's Consolidated Billing account. Any credit charges should be minimal (less than $10 in the first month) however this needs to be agreed to by the GA Credit Card holder and the relevant financial delegate.
+ 
+ * Step 1 of 2 - Enter Credit Card Details  
+ * Step 2 of 2 - select 'use contact address' tick box and click 'Continue'
+
+6. Add account to Consolidated Billing:  
+ * Select 'My Billing Dashboard' from drop down menu under the Account Name - top right of window.  
+ * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'
+ 
 
 * Financial approval and cost/activity code from your delegate.
 2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
