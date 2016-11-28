@@ -18,18 +18,18 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 If you have an application that will eventually become a production service, you should create a stand-alone account.  
 
 **Information you will need**  
- > Approval from the relevant section leader/financial delegate
- > A valid GA Credit Card for step 5.
- > GA Cost and Activity Codes
+ > Approval from the relevant section leader/financial delegate  
+ > A valid GA Credit Card for step 5.  
+ > GA Cost and Activity Codes  
 
-1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):
- * Click on the "Sign Up Now" button - then select the "I am a new user" option.
- * Enter a valid email address - this should be either:
+1. Create an [AWS account](https://aws.amazon.com/resources/create-account/):  
+ * Click on the "Sign Up Now" button - then select the "I am a new user" option.  
+ * Enter a valid email address - this should be either:  
  
-   > A shared GA mailbox (contact the Service Desk - note that this can take some time to create), **OR**
+   > A shared GA mailbox (contact the Service Desk - note that this can take some time to create), **OR**  
    >
-   > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com). 
-   > Email from this account forwards to the Autobots.
+   > ga.autobots+______@gmail.com (e.g. ga.autobots+bumblebee@gmail.com).  
+   > Email from this account forwards to the Autobots.  
    >
    > The Contact Email and some other details can be changed later on the My Account page/Account Settings using the root account.  
   
@@ -71,11 +71,11 @@ If you have an application that will eventually become a production service, you
  > Any credit charges should be minimal (less than $10 in the first month) however this needs to be agreed to by the GA Credit Card holder and the relevant financial delegate.
  
  * Step 1 of 2 - Enter Credit Card Details  
- * Step 2 of 2 - select 'use contact address' tick box and click 'Continue'
+ * Step 2 of 2 - select 'use contact address' tick box and click 'Continue'  
 
 6. Add account to Consolidated Billing:  
  * Select 'My Billing Dashboard' from drop down menu under the Account Name - top right of window.  
- * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'
+ * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'  
  
 
 * Financial approval and cost/activity code from your delegate.
