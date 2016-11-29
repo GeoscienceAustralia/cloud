@@ -17,7 +17,7 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 
 If you have an application that will eventually become a production service, you should create a stand-alone account.  
 
-1. Information you will need  
+1. Information you will need:  
   * Approval from the relevant section leader/financial delegate  
   * A valid GA Credit Card for step 6.  
   * GA Cost and Activity Codes  
