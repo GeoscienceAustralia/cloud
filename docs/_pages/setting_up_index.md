@@ -24,8 +24,8 @@ If you have an application that will eventually become a production service, you
   * The name for your Account - this should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project. Maximum of 10 characters for a total of 17 characters overall. The Account Name can also be used as an email at step 2.  
   * This information will need to be sent to the Cloud Enablement team ('Autobots') for them to complete the Consolidate Billing process:  
   > Hi Autobots!  
-  > I want to create a new AWS Space called: GA-AWS-GNSPROCESS  
-  > The space will be used for: Processing of GNSS data received from...
+  > I am creating a new AWS Space called: GA-AWS-GABION  
+  > The space will be used for: Developing a framework for geotechtonic walling processes...
   > The section lead is:  John Doe.  
   > Cost/Activity Codes: 1234/5678
   > I will send through account details once created.  
@@ -68,7 +68,7 @@ If you have an application that will eventually become a production service, you
    > Post Code: 2601  
    > Phone: +61 2 6249 9111  
    
- * Complete the Capta Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"  
+ * Complete the Captcha Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"  
  * Welcome to Amazon Web Services page - click 'Launch Management Console' button  
 
 5. Sign In to new account:
@@ -89,7 +89,7 @@ If you have an application that will eventually become a production service, you
  * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'  
  * You may be asked to Verify your Identity - this is done via an automated phone call
    > A new browser tab will be opened  
-   > Enter the capta text and a valid phone number  
+   > Enter the Captcha text and a valid phone number  
    > A Code Number will be displayed and AWS will call the number provided.
    > Enter the code number via the key pad - the web page will automatically update  
    > Click the 'Continue to Support Plan' button, select the default 'Basic' option and click 'Continue'  
@@ -97,7 +97,8 @@ If you have an application that will eventually become a production service, you
    
  * Refresh the page and click 'Sign up for Consolidated Billing'  
    > An email will be sent to the 'Autobots' Cloud Enablement team who will login to the GA Consolidated Billing account and add the new AWS Account.  
-   > You will receive an email to accept Consolidated Billing.
+   > At this point the 'Autobots' will need information about the account detailed in step 1 and the Account Number...  
+   > Once they have actioned the request you will receive an email to accept Consolidated Billing for the account.
    
 8.  
 
