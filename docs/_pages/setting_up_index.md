@@ -102,13 +102,13 @@ If you have an application that will eventually become a production service, you
    > At this point the 'Autobots' will need information about the account detailed in step 1 and the Account Number...  
    > Once they have actioned the request you will receive an email to accept Consolidated Billing for the account.
    
-8.  
+8. Clean up steps... [Tony to complete...]
 
-* Financial approval and cost/activity code from your delegate.
-2. Don't enter your payment information! Leave this screen and contact the Autobots to get your new account added to GA's Consolidated Billing first.
-3. If you used a GA mailbox, click the link from Consolidated Billing.
-4. Rename your space from its account number to 'ga-aws-_____'.
-5. Add MFA to your root account.
+  > Rename your space from its account number to 'ga-aws-_____'.  
+  > Add MFA to your root account.
+  > Send Root Account details to Autobots (for safekeeping) - how to do this securely??
+  > Set up Admin Account users - and discontinue use of Root Account...
+  > Ensure best practice security procedures in place...
 
 ### Setting up Continuous Delivery
 
