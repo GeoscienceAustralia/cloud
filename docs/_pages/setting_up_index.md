@@ -22,8 +22,8 @@ If you have an application that will eventually become a production service, you
   * A valid GA Credit Card for step 6.  
   * GA Cost and Activity Codes  
   * The name for your Account - this should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project. Maximum of 10 characters for a total of 17 characters overall. The Account Name can also be used as an email at step 2.  
-  * This information will need to be sent to the Cloud Enablement team ('Autobots') for them to complete the Consolidate Billing process:  
- 
+  * This information will need to be sent to the Cloud Enablement team (the 'Autobots') for them to complete the Consolidated Bill process:  
+  
    > Hi Autobots!  
    > I am creating a new AWS Space called: GA-AWS-GABION  
    > The space will be used for: Developing a framework for geotechtonic walling processes...  
