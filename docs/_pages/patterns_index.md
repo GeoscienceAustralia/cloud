@@ -8,11 +8,11 @@ permalink: patterns_index.html
 
 [The Open Source Guide to AWS](https://github.com/open-guides/og-aws/blob/master/README.md)
 
-# Create a two-tier webserver
+**Create a two-tier webserver**
 
-# Create a webserver with a database
+**Create a webserver with a database**
 
-# Create a static website with S3 and Cloudfront
+**Create a static website with S3 and Cloudfront**
 
 ### NCI
 
