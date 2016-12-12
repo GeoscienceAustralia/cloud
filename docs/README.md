@@ -1,3 +1,7 @@
+# Preliminaries
+
+This documentation is provided by and exclusively for the Autobots team, part of the ICTIS branch of Geoscience Australia. Any other team, branch, or organization follows this documentation at its own risk.
+
 # DOCter
 
 DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
