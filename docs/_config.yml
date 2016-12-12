@@ -40,7 +40,7 @@ navigation:
 - text: Setting Up
   url: setting_up_index.html
   internal: true
-- text: Patterns
+- text: Patterns & Examples
   url: patterns_index.html
   internal: true
 - text: Best Practices
@@ -51,15 +51,6 @@ navigation:
   internal: true
 - text: Tools
   url: /tools
-  internal: true
-- text: Agile
-  url: agile_index.html
-  internal: true
-- text: Open Source
-  url: open_source_index.html
-  internal: true
-- text: Lean
-  url: lean_index.html
   internal: true
 - text: Testing
   url: testing_index.html
