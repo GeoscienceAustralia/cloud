@@ -4,9 +4,13 @@ layout: page
 permalink: patterns_index.html
 ---
 
-### AWS
+## AWS
+
+### Guides
 
 [The Open Source Guide to AWS](https://github.com/open-guides/og-aws/blob/master/README.md)
+
+### Examples
 
 **Create a two-tier webserver**
 
@@ -14,10 +18,10 @@ permalink: patterns_index.html
 
 **Create a static website with S3 and Cloudfront**
 
-### NCI
+## NCI
 
 In progress.
 
-### CSC Cloud
+## CSC Cloud
 
 In progress.
