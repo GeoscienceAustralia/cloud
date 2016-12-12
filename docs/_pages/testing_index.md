@@ -6,7 +6,9 @@ permalink: testing_index.html
 
 ### Introduction
 
-Developers at GA are encouraged to have wide test coverage of all systems they are involved with. Testing allows developers to find problems early and provides confidence when making changes to code. It is also a key part of our continuous delivery pipelines.
+You should have wide test coverage of any code you touch. Testing allows developers to find problems early and provides confidence when making changes to code.
+
+It is also a key part of a continuous delivery pipeline. Why test something by hand when you can have a computer test it for you automatically?
 
 ### Python
 
@@ -29,21 +31,9 @@ You might want to check out:
 * [mocha](http://mochajs.org/)
 * [jasmine](https://github.com/jasmine/jasmine)
 
-### Conclusion
+### Functional Testing
 
-We like this excerpt from [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf):
+You might want to check out:
 
-The pupil asked the master programmer:
-“When can I stop writing tests?”
-The master answered:
-“When you stop writing code.”
-The pupil asked:
-“When do I stop writing code?”
-The master answered:
-“When you become a manager.”
-The pupil trembled and asked:
-“When do I become a manager?”
-The master answered:
-“When you stop writing tests.”
-The pupil rushed to write some tests.
-He left skid marks.
+* [Selenium](http://www.seleniumhq.org/)
+* [ServerSpec](http://serverspec.org)
