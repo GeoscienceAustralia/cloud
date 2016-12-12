@@ -1,5 +1,5 @@
 ---
-title: Patterns
+title: Patterns & Examples
 layout: page
 permalink: patterns_index.html
 ---
