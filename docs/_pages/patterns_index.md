@@ -16,7 +16,7 @@ permalink: patterns_index.html
 
 This will create an autoscaling web server with an elastic load-balancer.
 
-[Webserver with a database](https://github.com/GeoscienceAustralia/terraform/tree/master/three-tier)
+[Webserver with a database](https://github.com/GeoscienceAustralia/terraform/tree/master/three-tier-rds)
 
 This will create an autoscaling web server with an elastic load-balancer and a relational database.
 
