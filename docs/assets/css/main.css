@@ -217,6 +217,7 @@ Navigation
   border-bottom: none;
 }
 
+<<<<<<< HEAD
 .sidebar-nav li a.sidebar-nav-second,
 .sidebar-nav li a.sidebar-nav-second:focus,
 .sidebar-nav li a.sidebar-nav-second:hover{
@@ -240,6 +241,8 @@ Navigation
    content: ' ▿';
 }
 
+=======
+>>>>>>> 6e4cfad032a2414ef3069b310167284dd46451b6
 
 /*
 Layout

@@ -4,7 +4,6 @@
   <nav class="sidebar-nav" role="navigation">
     <ul>
       {% for link in site.navigation %}
-
           {% if link.subcategories %}
             <li class="submenu closed"><a href="#">{{ link.text }}</a></li>
             <ul class="sidebar-menu-second hidden">
@@ -37,7 +36,6 @@
               <li><a href="{{ link.url }}">{{ link.text }}</a></li>
             {% endif %}
           {% endif %}
-        
       {% endfor %}
     </ul>
   </nav>

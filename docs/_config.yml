@@ -41,6 +41,7 @@ navigation:
   url: setting_up_index.html
   internal: true
 - text: Patterns
+- text: Patterns & Examples
   url: patterns_index.html
   internal: true
 - text: Best Practices
@@ -75,6 +76,9 @@ navigation:
     - text: Testing
       url: testing_index.html
       internal: true
+- text: Testing
+  url: testing_index.html
+  internal: true
 - text: Data
   url: data_index.html
   internal: true
