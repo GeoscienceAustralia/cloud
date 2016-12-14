@@ -1,7 +1,7 @@
 ---
 title: Best Practices
 layout: page
-permalink: best_practices_index.html
+permalink: best_practices_sub.html
 ---
 
 ### 101

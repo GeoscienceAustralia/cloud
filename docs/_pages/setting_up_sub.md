@@ -1,7 +1,7 @@
 ---
 title: Setting Up
 layout: page
-permalink: setting_up_index.html
+permalink: setting_up_sub.html
 ---
 
 ### First steps
