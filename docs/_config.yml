@@ -35,29 +35,41 @@ navigation:
   url: ./
   internal: true
 - text: Getting Started
-  url: getting_started_index.html
-  internal: true
-- text: Setting Up
-  url: setting_up_index.html
-  internal: true
-- text: Patterns & Examples
-  url: patterns_index.html
-  internal: true
-- text: Best Practices
-  url: best_practices_index.html
-  internal: true
+  subcategories:
+  - text: Things to Consider
+    url: things_to_consider_sub.html
+    internal: true
+  - text: Best Practices
+    url: best_practices_sub.html
+    internal: true
+  - text: Setting Up AWS Account
+    url: setting_up_sub.html
+    internal: true
+  - text: Sunset Strategy
+    url: sunset_strategy_sub.html
+    internal: true
 - text: Security  
   url: security_index.html
   internal: true
-- text: Tools
-  url: tools
+- text: Monitoring
+  url: monitoring_index.html
+  internal: true
+- text: Cost Management
+  url: cost_management_index.html
+  internal: true  
+- text: Data
+  url: data_index.html
   internal: true
 - text: Testing
   url: testing_index.html
   internal: true
-- text: Data
-  url: data_index.html
+- text: Patterns & Examples
+  url: patterns_index.html
   internal: true
+- text: Tools
+  url: tools
+  internal: true
+
 
 # Style Variables
 brand_color: "#2cb34a"
