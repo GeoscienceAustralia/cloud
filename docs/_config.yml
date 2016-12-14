@@ -43,7 +43,10 @@ navigation:
     url: best_practices_sub.html
     internal: true
   - text: Setting Up AWS Account
-    url: setting_up_sub.html
+    url: setting_up_aws_sub.html
+    internal: true
+  - text: Setting Up Continuous Delivery
+    url: setting_up_cd_sub.html
     internal: true
   - text: Decommissioning Strategy
     url: decom_strategy_sub.html
