@@ -26,3 +26,4 @@ permalink: /tools
   
 * Make my AWS space more secure:
   * [space-provisioner](https://bitbucket.org/geoscienceaustralia/space-provisioner) - configure your AWS space to a minimum level of security
+  * [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/) - requires business-level support on your AWS account.
