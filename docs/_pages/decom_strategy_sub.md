@@ -1,7 +1,7 @@
 ---
 title: Decommissioning Strategy
 layout: page
-permalink: sunset_strategy_sub.html
+permalink: decom_strategy_sub.html
 ---
 
 We love to create new applications. We're also terrible at decommissioning existing applications.
