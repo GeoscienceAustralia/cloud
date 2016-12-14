@@ -9,6 +9,10 @@ permalink: things_to_consider_sub.html
 1. Join [Slack](https://geoscience-australia.slack.com/signup), our messaging app. It's a great place to ask questions.
 2. Join the #awscop and #autobots channels to chat with experts from across GA.
 
+### Learning about AWS
+
+If you just want to experiment with AWS, you should get an account in the AWS Dev space. Send a Slack message or an email to the Autobots to get the ball rolling.
+
 ### Ongoing management
 
 Each AWS space owner is responsible for ongoing management of their AWS space. This includes:
