@@ -9,38 +9,34 @@ permalink: setting_up_sub.html
 1. Join [Slack](https://geoscience-australia.slack.com/signup), our messaging app. It's a great place to ask questions.
 2. Join the #awscop and #autobots channels to chat with experts from across GA.
 
-### Setting up AWS
-
-If you just want to experiment with AWS, you should get an account in the AWS Dev space. Send a Slack message or an email to the Autobots to get the ball rolling.
-
 ### Create an AWS space
 
 If you have an application that will eventually become a production service, you should create a stand-alone account.  
 
-1. Information you will need:  
+**1. Information you will need:**
   * Approval from the relevant section leader/financial delegate  
   * A valid GA Credit Card for step 6.  
   * GA Cost and Activity Codes  
   * The name for your Account - this should be 'GA-AWS-xxxxxxxxxx'. For example, 'ga-aws-bumblebee' for the Bumblebee project. Maximum of 10 characters for a total of 17 characters overall. The Account Name can also be used as an email at step 2.  
   * This information will need to be sent to the Cloud Enablement team (the 'Autobots') for them to complete the Consolidated Bill process:  
  
-   > Hi Autobots!  
-   > I am creating a new AWS Space called: GA-AWS-GABION  
-   > The space will be used for: Developing a framework for geotechtonic walling processes...  
-   > The section lead is:  John Doe.  
-   > Cost/Activity Codes: 1234/5678  
-   > I will send through account details once created.  
-   > Regards, Account Owner... 
+   *Hi Autobots!  
+   I am creating a new AWS Space called: GA-AWS-GABION  
+   The space will be used for: Developing a framework for geotechtonic walling processes...  
+   The section lead is:  John Doe.  
+   Cost/Activity Codes: 1234/5678  
+   I will send through account details once created.  
+   Regards, Account Owner...*
    
 
-2. Create an [AWS account](https://aws.amazon.com/resources/create-account/):  
+**2. Create an [AWS account](https://aws.amazon.com/resources/create-account/):**
  * Click on the "Sign Up Now" button - then select the "I am a new user" option.  
  * Enter a valid email address - this should be either:  
  
    > A shared GA mailbox (contact the Service Desk - note that this can take some time to create).  
    > The IT Service Desk will need the following information:    
    > Mailbox Name: this should be the Account Name from step 1 with the GA domain - eg. ga-aws-bumblebee@ga.gov.au  
-   > Mailbox Members: should include the relevant Divisional Information Officer (DIO) for the project, The Business Team or Section Lead, the Tecnical Lead, and the Autobots (James Kingsmill and Scott McLauchlan)
+   > Mailbox Members: should include the relevant Divisional Information Officer (DIO) for the project, The Business Team or Section Lead, the Tecnical Lead, and the Autobots
    >  
    > **OR**  
    >
