@@ -23,6 +23,7 @@ Don't commit your AWS keys to git repositories!
 ### ISM
 
 Have a read of the [Australian Government Information Security Manual](http://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf) (pdf). Especially useful are the top 4 strategies:
+
 1. application whitelisting
 2. patch applications
 3. patch operating systems
