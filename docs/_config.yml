@@ -48,6 +48,12 @@ navigation:
   - text: Decommissioning Strategy
     url: decom_strategy_sub.html
     internal: true
+- text: Patterns & Examples
+  url: patterns_index.html
+  internal: true
+- text: Tools
+  url: tools
+  internal: true
 - text: Security  
   url: security_index.html
   internal: true
@@ -63,12 +69,7 @@ navigation:
 - text: Testing
   url: testing_index.html
   internal: true
-- text: Patterns & Examples
-  url: patterns_index.html
-  internal: true
-- text: Tools
-  url: tools
-  internal: true
+
 
 
 # Style Variables
