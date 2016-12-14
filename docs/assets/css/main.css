@@ -216,7 +216,28 @@ Navigation
 .sidebar-nav li:last-child {
   border-bottom: none;
 }
+.sidebar-nav li a.sidebar-nav-second,
+.sidebar-nav li a.sidebar-nav-second:focus,
+.sidebar-nav li a.sidebar-nav-second:hover{
+  padding-left: 20px;
+}
 
+.sidebar-nav li a.sidebar-nav-third,
+.sidebar-nav li a.sidebar-nav-third:focus,
+.sidebar-nav li a.sidebar-nav-third:hover {
+  padding-left: 30px;
+}
+.sidebar-menu-second li.submenu {
+    padding-left: 4px;
+}
+.submenu.open > a:after {
+   color: #444;
+   content: ' ▾';
+}
+.submenu.closed > a:after {
+   color: #444;
+   content: ' ▿';
+}
 
 /*
 Layout

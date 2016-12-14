@@ -50,7 +50,7 @@ navigation:
   url: security_index.html
   internal: true
 - text: Tools
-  url: /tools
+  url: tools
   internal: true
 - text: Testing
   url: testing_index.html
