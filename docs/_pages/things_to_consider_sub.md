@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 layout: page
-permalink: getting_started_sub.html
+permalink: things_to_consider_sub.html
 ---
 
 ### Getting started

@@ -1,5 +1,5 @@
 ---
-title: Setting Up
+title: Setting Up AWS Account
 layout: page
 permalink: setting_up_sub.html
 ---
