@@ -21,7 +21,7 @@ permalink: /tools
   * [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) - for Bitbucket repositories
 
 * Monitor my AWS infrastructure:
-  * [ELK](https://github.com/GeoscienceAustralia/toucan/tree/master/monitoring) - general logging and monitoring for all services
+  * [ELK](https://github.com/GeoscienceAustralia/metrics) - general logging and monitoring for all services
   * [Cloudsploit-Lambda](https://github.com/GeoscienceAustralia/cloudsploit-lambda) - run regular security audits on your AWS space
   
 * Make my AWS space more secure:
