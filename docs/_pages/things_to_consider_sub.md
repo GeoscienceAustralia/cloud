@@ -17,4 +17,4 @@ Each AWS space owner is responsible for ongoing management of their AWS space. T
  * [Monitoring](monitoring_index.html)
  * [Costs](cost_management_index.html)
 
-Migrating of existing applications to AWS isn't as simple as copying and pasting existing infrastructure. Application owners will need to work with advice from the Autobots and other MDTs to create resilient cloud infrastructure. This can be helped by some of the [Tools](tools_index.md) that have been developed at GA.
+Migrating of existing applications to AWS isn't as simple as copying and pasting existing infrastructure. Application owners will need to work with advice from the Autobots and other MDTs to create resilient cloud infrastructure. This can be helped by some of the [Tools](tools_index.html) that have been developed at GA.
