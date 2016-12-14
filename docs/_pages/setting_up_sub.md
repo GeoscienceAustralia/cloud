@@ -4,16 +4,17 @@ layout: page
 permalink: setting_up_sub.html
 ---
 
-### First steps
+# First steps
 
 1. Join [Slack](https://geoscience-australia.slack.com/signup), our messaging app. It's a great place to ask questions.
 2. Join the #awscop and #autobots channels to chat with experts from across GA.
 
-### Create an AWS space
+# Create an AWS space
 
 If you have an application that will eventually become a production service, you should create a stand-alone account.  
 
 **1. Information you will need:**
+
   * Approval from the relevant section leader/financial delegate  
   * A valid GA Credit Card for step 6.  
   * GA Cost and Activity Codes  
@@ -30,6 +31,7 @@ If you have an application that will eventually become a production service, you
    
 
 **2. Create an [AWS account](https://aws.amazon.com/resources/create-account/):**
+
  * Click on the "Sign Up Now" button - then select the "I am a new user" option.  
  * Enter a valid email address - this should be either:  
  
@@ -47,42 +49,45 @@ If you have an application that will eventually become a production service, you
   
  * Click the "Sign in using our secure server" button to creat a new account.  
  
-3. Login Credentials:
+**3. Login Credentials:**
+
  * My Name is: this will be the **Account Name** from step 1.  
-   
  * My e-mail address: same as used in previous step  
  * Enter a password (and remember it for later!)
  * Click "Create Account" button
   
-4. Contact Information:
+**4. Contact Information:**
+
  * Select "Company Account" radio button
  * Full Name is the **Account Name** from step 1.
  * Company Name and Details as below:  
-   > Company Name: Geoscience Australia  
-   > Country: Australia  
-   > Address: GPO Box 378  
-   > City: Canberra  
-   > State: ACT  
-   > Post Code: 2601  
-   > Phone: +61 2 6249 9111  
-   
+   *Company Name: Geoscience Australia  
+   Country: Australia  
+   Address: GPO Box 378  
+   City: Canberra  
+   State: ACT  
+   Post Code: 2601  
+   Phone: +61 2 6249 9111*
  * Complete the Captcha Image test and tick the "AWS Customer Agreement" check box - and click "Create Account and Contine"  
  * Welcome to Amazon Web Services page - click 'Launch Management Console' button  
 
-5. Sign In to new account:
+**5. Sign In to new account:**
+
  * My e-mail address: same as used previously  
  * Select 'I am a returning user' and enter the password  
  * click 'Sign in using our secure server'  
  
-6. Add Credit Card to secure charges:  
- > To cover any charges, AWS requires a credit card to secure the account initially. 
- > The next step will request the new account to be assigned to GA's Consolidated Billing account. 
- > Any credit charges should be minimal (less than $10 in the first month) however this needs to be agreed to by the GA Credit Card holder and the relevant financial delegate.
+**6. Add Credit Card to secure charges:**
+
+ * To cover any charges, AWS requires a credit card to secure the account initially.
+ * The next step will request the new account to be assigned to GA's Consolidated Billing account. 
+ * Any credit charges should be minimal (less than $10 in the first month) however this needs to be agreed to by the GA Credit Card holder and the relevant financial delegate.
  
  * Step 1 of 2 - Enter Credit Card Details  
  * Step 2 of 2 - select 'use contact address' tick box and click 'Continue'  
 
-7. Sign up for Consolidated Billing:  
+**7. Sign up for Consolidated Billing:**
+
  * Select 'My Billing Dashboard' from drop down menu under the Account Name - top right of window.  
  * Select the 'Consolidated Billing' menu option and click 'Sign up for Consolidated Billing'  
  * You may be asked to Verify your Identity - this is done via an automated phone call
@@ -98,17 +103,10 @@ If you have an application that will eventually become a production service, you
    > At this point the 'Autobots' will need information about the account detailed in step 1 and the Account Number...  
    > Once they have actioned the request you will receive an email to accept Consolidated Billing for the account.
    
-8. Clean up steps... [Tony to complete...]
+**8. Clean up steps**
 
-  > Rename your space from its account number to 'ga-aws-_____'.  
-  > Add MFA to your root account.
-  > Send Root Account details to Autobots (for safekeeping) - how to do this securely??
-  > Set up Admin Account users - and discontinue use of Root Account...
-  > Ensure best practice security procedures in place...
-
-### Setting up Continuous Delivery
-
-1. Make sure your code is in version control in Github or Bitbucket.
-2. Get started with your pipeline:
-  * If you're using Github, you'll be using [TravisCI](https://travis-ci.org/). Start by adding a .travis.yml to your repository.
-  * If you're using Bitbucket, you'll be using [Bitbucket Pipelines](https://confluence.atlassian.com/bitbucket/get-started-with-bitbucket-pipelines-792298921.html). This link has all the information you need to get started.
+  * Rename your space from its account number to 'ga-aws-_____'.  
+  * Add MFA to your root account.
+  * Send Root Account details to Autobots (for safekeeping).
+  * Set up Admin Account users and discontinue use of root account.
+  * Run [space-provisioner](https://bitbucket.org/geoscienceaustralia/space-provisioner/) on your new account.
