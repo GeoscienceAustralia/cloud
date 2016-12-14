@@ -28,7 +28,7 @@ Develop your stuff iteratively with as much user input as possible. Get a minimu
 
 ### Security
 
-Bake in [Security](security_index.md)  as early as you can. Security is an essential ingredient, not a band-aid.
+Bake in [Security](security_index.html)  as early as you can. Security is an essential ingredient, not a band-aid.
 
 Make use of the passive security provided by some of the [Tools](tools_index.md) created by your GA teammates.
 
