@@ -21,4 +21,4 @@ Don't commit your AWS keys to git repositories!
 * Familiarise yourself with GA security policies on the intranet. Remember you can get in touch with the ICTIS Security team if you have any questions about IT security.
 
 ### But seriously...
-Seriously, don't commit your AWS keys to git repositories!
+Don't commit your AWS keys to git repositories!
