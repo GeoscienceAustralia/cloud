@@ -58,7 +58,13 @@ navigation:
   url: tools
   internal: true
 - text: Security  
-  url: security_index.html
+  subcategories:
+  - text: AWS Security
+    url: aws_security_sub.html
+    internal: true
+  - text: Authentication & SSO
+    url: authentication_sub.html
+    internal: true
   internal: true
 - text: Monitoring
   url: monitoring_index.html

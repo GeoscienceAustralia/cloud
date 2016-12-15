@@ -17,7 +17,7 @@ If you just want to experiment with AWS, you should get an account in the AWS De
 
 Each AWS space owner is responsible for ongoing management of their AWS space. This includes:
 
- * [Security](security_index.html)
+ * [Security](aws_security_sub.html)
  * [Monitoring](monitoring_index.html)
  * [Costs](cost_management_index.html)
 

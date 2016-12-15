@@ -1,7 +1,7 @@
 ---
-title: Security
+title: AWS Security
 layout: page
-permalink: security_index.html
+permalink: aws_security_sub.html
 ---
 
 ### AWS keys
