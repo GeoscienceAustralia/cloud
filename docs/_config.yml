@@ -59,8 +59,14 @@ navigation:
   internal: true
 - text: Security  
   subcategories:
+  - text: General Security
+    url: general_security_sub.html
+    internal: true
   - text: AWS Security
     url: aws_security_sub.html
+    internal: true
+  - text: Code Security
+    url: code_security_sub.html
     internal: true
   - text: Authentication & SSO
     url: authentication_sub.html
