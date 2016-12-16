@@ -22,9 +22,8 @@ Use service accounts where possible instead of user accounts and store administr
 
 ### Security
 
-Please review requirements for Australian Government Departments under ISM, Access Control pg. 190-205
-[https://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf]
+Please review requirements for Australian Government Departments under [ISM, Access Control](https://www.asd.gov.au/publications/Information_Security_Manual_2016_Controls.pdf) pg. 190-205
 
 ### Records
 
-Ensure that access logs are written and kept for 7 years in accordance with requirements under the Archives Act, National Archives of Australia - Administrative Functions Disposal Authority, [http://www.naa.gov.au/Images/AFDA2010-7Feb2013-revision_tcm16-44429.PDF] pg 305, TECHNOLOGY & TELECOMMUNICATIONS - Control, Class number 2099
+Ensure that access logs are written and kept for 7 years in accordance with requirements under the [Archives Act, National Archives of Australia - Administrative Functions Disposal Authority](http://www.naa.gov.au/Images/AFDA2010-7Feb2013-revision_tcm16-44429.PDF) pg 305, TECHNOLOGY & TELECOMMUNICATIONS - Control, Class number 2099
