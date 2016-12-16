@@ -25,7 +25,7 @@ author:
   url: mailto:autobots@ga.gov.au
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
+logourl: '/assets/img/ga-logo.png'
 logoalt:
 
 # Navigation
