@@ -253,7 +253,7 @@ Layout
 .logo {
     display: block;
     max-width: 40%;
-    max-height: 40%;
+    max-height: 100px;
 }
 
 .content {
