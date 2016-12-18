@@ -244,7 +244,7 @@ Layout
 ==================================
 */
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .logo {
     display: none;
   }
@@ -252,8 +252,8 @@ Layout
 
 .logo {
     display: block;
-    max-width: 70%;
-    max-height: 70%;
+    max-width: 40%;
+    max-height: 40%;
 }
 
 .content {
