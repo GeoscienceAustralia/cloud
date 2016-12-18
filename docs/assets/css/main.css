@@ -250,11 +250,6 @@ Layout
   }
 }
 
-.logo {
-    display: block;
-    max-width: 40%;
-    max-height: 100px;
-}
 
 .content {
   padding-top: 2em;
@@ -285,7 +280,7 @@ header {
     width: 100%;
     border-bottom: 4px solid {{ site.brand_color }};
     background-color: #fff;
-    padding: 2em 0 2em;
+    padding: 2em 0;
 }
 
 
