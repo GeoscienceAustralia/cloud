@@ -285,7 +285,7 @@ header {
     width: 100%;
     border-bottom: 4px solid {{ site.brand_color }};
     background-color: #fff;
-    padding: 2em 0;
+    padding: 2em 0 2em;
 }
 
 
