@@ -244,8 +244,16 @@ Layout
 ==================================
 */
 
+@media (max-width: 600px) {
+  .logo {
+    display: none;
+  }
+}
+
 .logo {
     display: block;
+    max-width: 70%;
+    max-height: 70%;
 }
 
 .content {
