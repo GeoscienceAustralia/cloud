@@ -32,7 +32,3 @@ This will create:
 [Static website with S3 and Cloudfront](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/s3-www-cloudfront)
 
 This will create a static website on S3 with a Cloudfront distribution for content delivery.
-
-[VPC](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/vpc)
-
-This will create a virtual private cloud.
