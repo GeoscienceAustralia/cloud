@@ -57,7 +57,7 @@ navigation:
 - text: Tools
   url: tools
   internal: true
-- text: Security  
+- text: Security 
   subcategories:
   - text: General Security
     url: general_security_sub.html
@@ -77,7 +77,7 @@ navigation:
   internal: true
 - text: Cost Management
   url: cost_management_index.html
-  internal: true  
+  internal: true
 - text: Data
   url: data_index.html
   internal: true
@@ -88,4 +88,4 @@ navigation:
 
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#01708C"
