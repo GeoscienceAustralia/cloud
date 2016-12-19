@@ -22,7 +22,7 @@ This will create an Amazon Machine Image running Apache. This AMI can then be us
 
 This will create:
 
- * Autoscaling web servers
+ * An autoscaling web server group
  * An elastic load-balancer
  * A VPC with a NAT server and a jump host
 
@@ -30,7 +30,7 @@ This will create:
 
 This will create:
 
- * Autoscaling web servers
+ * An autoscaling web server group
  * An elastic load-balancer
  * A Postgres database
  * A VPC with a NAT server and a jump host
