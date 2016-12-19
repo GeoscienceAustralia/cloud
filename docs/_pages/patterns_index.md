@@ -18,13 +18,22 @@ This will create an Amazon Machine Image running Apache. This AMI can then be us
 
 ### Creating AWS infrastructure
 
-[Two-tier webserver](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/two-tier)
+[Two-tier webserver](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/two-tier-vpc)
 
-This will create an autoscaling web server with an elastic load-balancer.
+This will create:
+
+ * Autoscaling web servers
+ * An elastic load-balancer
+ * A VPC with a NAT server and a jump host
 
 [Webserver with a database](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/three-tier-rds)
 
-This will create an autoscaling web server with an elastic load-balancer and a relational database.
+This will create:
+
+ * Autoscaling web servers
+ * An elastic load-balancer
+ * A Postgres database
+ * A VPC with a NAT server and a jump host
 
 [Static website with S3 and Cloudfront](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/s3-www-cloudfront)
 
