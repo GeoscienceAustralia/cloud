@@ -52,8 +52,13 @@ navigation:
     url: decom_strategy_sub.html
     internal: true
 - text: Patterns & Examples
-  url: patterns_index.html
-  internal: true
+  subcategories:
+  - text: Guides
+    url: guides_sub.html
+    internal: true
+  - text: AWS Examples
+    url: aws_patterns_sub.html
+    internal: true
 - text: Tools
   url: tools
   internal: true
