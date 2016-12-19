@@ -31,4 +31,7 @@ This will create:
 
 [Static website with S3 and Cloudfront](https://github.com/GeoscienceAustralia/cloud-examples/tree/master/s3-www-cloudfront)
 
-This will create a static website on S3 with a Cloudfront distribution for content delivery.
+This will create
+
+ * A static website on S3
+ * A Cloudfront distribution for content delivery
