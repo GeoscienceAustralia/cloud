@@ -18,7 +18,7 @@ This will create:
 
  * An autoscaling web server group
  * An elastic load-balancer
- * A VPC with a NAT server and a jump host
+ * A VPC with a NAT gateway and a jump host
 
 [Webserver with a database](https://github.com/GeoscienceAustralia/terraform/tree/master/three-tier-rds)
 
@@ -27,7 +27,7 @@ This will create:
  * An autoscaling web server group
  * An elastic load-balancer
  * A Postgres database
- * A VPC with a NAT server and a jump host
+ * A VPC with a NAT gateway and a jump host
 
 [Static website with S3 and Cloudfront](https://github.com/GeoscienceAustralia/terraform/tree/master/s3-www-cloudfront)
 
