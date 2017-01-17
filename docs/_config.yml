@@ -77,6 +77,14 @@ navigation:
     url: authentication_sub.html
     internal: true
   internal: true
+- text: Code
+  subcategories:
+  - text: Code Review
+    url: code_review_sub.html
+    internal: true
+  - text: Principles for Software Development
+    url: coding_principles_sub.html
+    internal: true
 - text: Monitoring
   url: monitoring_index.html
   internal: true
