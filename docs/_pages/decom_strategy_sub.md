@@ -4,7 +4,7 @@ layout: page
 permalink: decom_strategy_sub.html
 ---
 
-We love to create new applications. We're also terrible at decommissioning existing applications.
+We love to create new applications. We've also traditionally been terrible at decommissioning existing applications. :)
 
 Consider the following when creating a new application:
 
