@@ -16,15 +16,19 @@ If your site is on AWS, use [ACM](https://aws.amazon.com/certificate-manager/). 
 
 ### ACM
 
-* From the Certificate Manager console in AWS, request a certificate
-* Add the name of your server (or servers), or add a wildcard certificate for your domain
-* An approval email will be sent to [a number of email addresses](http://docs.aws.amazon.com/acm/latest/userguide/gs-acm-validate.html) to ensure that you have the approval of the domain owner. For example, for a request for a certificate for \*.server.example.com, emails will be sent to:
+1. From the Certificate Manager console in AWS, request a certificate
+2. Add the name of your server (or servers), or add a wildcard certificate for your domain
+3. An approval email will be sent to [a number of email addresses](http://docs.aws.amazon.com/acm/latest/userguide/gs-acm-validate.html) to ensure that you have the approval of the domain owner. For example, for a request for a certificate for \*.server.example.com, emails will be sent to:
   * admin@server.example.com
   * administrator@server.example.com
   * hostmaster@server.example.com
   * postmaster@server.example.com
   * webmaster@server.example.com
-* When the link in the email is clicked, the certificate is generated and ready for use!
-* [Add an HTTPS listener to your load balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-https-load-balancers.html), then attach the certificate
+4. When the link in the email is clicked, the certificate is generated and ready for use!
+5. [Add an HTTPS listener to your load balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-https-load-balancers.html), then attach the certificate
 
 ### LetsEncrypt
+
+Follow the [Getting Started](https://letsencrypt.org/getting-started/) guide. If you have shell access to your server, install the [Certbot](https://certbot.eff.org/) client and follow the documentation.
+
+Certificates expire after 90 days, so you should run a cronjob to automate certificate renewal.
