@@ -73,6 +73,9 @@ navigation:
   - text: Code Security
     url: code_security_sub.html
     internal: true
+  - text: SSL & HTTPS
+    url: ssl_sub.html
+    internal: true
   - text: Authentication & SSO
     url: authentication_sub.html
     internal: true
