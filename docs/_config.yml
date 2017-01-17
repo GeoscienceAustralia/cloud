@@ -85,6 +85,9 @@ navigation:
   - text: Principles for Software Development
     url: coding_principles_sub.html
     internal: true
+  - text: Application Release
+    url: app_release_sub.html
+    internal: true
 - text: Monitoring
   url: monitoring_index.html
   internal: true
