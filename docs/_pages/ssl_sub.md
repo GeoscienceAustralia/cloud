@@ -25,7 +25,7 @@ If your site is on AWS, use [ACM](https://aws.amazon.com/certificate-manager/). 
   * postmaster@server.example.com
   * webmaster@server.example.com
 4. When the link in the email is clicked, the certificate is generated and ready for use!
-5. [Add an HTTPS listener to your load balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-https-load-balancers.html), then attach the certificate
+5. [Follow the documentation](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-https-load-balancers.html) to add an HTTPS listener to your load balancer and attach the certificate
 
 ### LetsEncrypt
 
