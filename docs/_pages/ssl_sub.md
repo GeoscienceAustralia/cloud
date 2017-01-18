@@ -24,10 +24,9 @@ If your site is on AWS, use [ACM](https://aws.amazon.com/certificate-manager/). 
   * hostmaster@server.example.com
   * postmaster@server.example.com
   * webmaster@server.example.com
-  
-  If you need to set up an email address for your domain, you can use [AWS Simple Email Service](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-getting-started.html).
-4. When the link in the email is clicked, the certificate is generated and ready for use!
-5. [Follow the documentation](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-https-load-balancers.html) to add an HTTPS listener to your load balancer and attach the certificate
+4. If you need to set up an email address for your domain, you can use [AWS Simple Email Service](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-getting-started.html).
+5. When the link in the email is clicked, the certificate is generated and ready for use!
+6. [Follow the documentation](http://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-https-load-balancers.html) to add an HTTPS listener to your load balancer and attach the certificate
 
 ### LetsEncrypt
 
