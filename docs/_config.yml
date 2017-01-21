@@ -6,7 +6,8 @@ highlighter: rouge
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /
+    # permalink: /:path/
 
 # Title
 name: cloud.ga.gov.au
