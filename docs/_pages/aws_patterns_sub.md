@@ -1,7 +1,7 @@
 ---
 title: AWS Patterns
 layout: page
-permalink: aws_patterns_sub.html
+permalink: cloud/aws_patterns_sub.html
 ---
 
 ### Creating an AMI

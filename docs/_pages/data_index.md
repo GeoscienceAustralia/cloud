@@ -1,7 +1,7 @@
 ---
 title: Data
 layout: page
-permalink: data_index.html
+permalink: cloud/data_index.html
 ---
 
 ### DRAFT

@@ -1,7 +1,7 @@
 ---
 title: Decommissioning Strategy
 layout: page
-permalink: decom_strategy_sub.html
+permalink: cloud/decom_strategy_sub.html
 ---
 
 We love to create new applications. We've also traditionally been terrible at decommissioning existing applications. :)

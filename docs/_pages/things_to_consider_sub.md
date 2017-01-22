@@ -1,7 +1,7 @@
 ---
 title: Things to Consider
 layout: page
-permalink: things_to_consider_sub.html
+permalink: cloud/things_to_consider_sub.html
 ---
 
 ### Before you begin

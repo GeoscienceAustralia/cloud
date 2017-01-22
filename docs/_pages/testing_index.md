@@ -1,7 +1,7 @@
 ---
 title: Testing
 layout: page
-permalink: testing_index.html
+permalink: cloud/testing_index.html
 ---
 
 ### Introduction

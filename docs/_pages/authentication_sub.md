@@ -1,7 +1,7 @@
 ---
 title: Authentication & SSO
 layout: page
-permalink: authentication_sub.html
+permalink: cloud/authentication_sub.html
 ---
 
 ### Introduction

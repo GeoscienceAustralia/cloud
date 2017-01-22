@@ -1,7 +1,7 @@
 ---
 title: Monitoring
 layout: page
-permalink: monitoring_index.html
+permalink: cloud/monitoring_index.html
 ---
 
 ### Internal monitoring

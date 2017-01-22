@@ -1,7 +1,7 @@
 ---
 title: Code Security
 layout: page
-permalink: code_security_sub.html
+permalink: cloud/code_security_sub.html
 ---
 
 ### OWASP Top 10

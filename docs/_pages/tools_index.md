@@ -1,7 +1,7 @@
 ---
 title: Tools
 layout: page
-permalink: tools_index.html
+permalink: cloud/tools_index.html
 ---
 
 ### I want to...

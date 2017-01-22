@@ -1,7 +1,7 @@
 ---
 title: Guides
 layout: page
-permalink: guides_sub.html
+permalink: cloud/guides_sub.html
 ---
 
 ## AWS

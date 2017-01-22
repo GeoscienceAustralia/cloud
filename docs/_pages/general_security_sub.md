@@ -1,7 +1,7 @@
 ---
 title: General Security
 layout: page
-permalink: general_security_sub.html
+permalink: cloud/general_security_sub.html
 ---
 
 ### ISM

@@ -1,7 +1,7 @@
 ---
 title: Setting Up Continuous Delivery
 layout: page
-permalink: setting_up_cd_sub.html
+permalink: cloud/setting_up_cd_sub.html
 ---
 
 ### Setting up Continuous Delivery

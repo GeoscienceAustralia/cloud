@@ -1,7 +1,7 @@
 ---
 title: Principles of Software Development
 layout: page
-permalink: coding_principles_sub.html
+permalink: cloud/coding_principles_sub.html
 ---
  
  Software quality is supported by a set of practices:

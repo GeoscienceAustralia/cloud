@@ -1,7 +1,7 @@
 ---
 title: SSL & HTTPS
 layout: page
-permalink: ssl_sub.html
+permalink: cloud/ssl_sub.html
 ---
 
 ### https by default

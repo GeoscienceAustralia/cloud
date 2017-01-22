@@ -1,7 +1,7 @@
 ---
 title: Cost Management
 layout: page
-permalink: cost_management_index.html
+permalink: cloud/cost_management_index.html
 ---
 
 ### Metrics
