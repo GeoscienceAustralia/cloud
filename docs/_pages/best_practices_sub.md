@@ -1,7 +1,7 @@
 ---
 title: Best Practices
 layout: page
-permalink: cloud/best_practices_sub.html
+permalink: best_practices_sub.html
 ---
 
 ### 101
