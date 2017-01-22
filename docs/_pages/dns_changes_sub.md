@@ -4,10 +4,6 @@ layout: page
 permalink: cloud/dns_changes_sub.html
 ---
 
-### Introduction
-
-Production websites will often need a \*.ga.gov.au domain name. 
-
 ### Creating a \*.ga.gov.au domain
 
 [Create a hosted zone](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/CreatingHostedZone.html) in AWS Route 53. When the zone is created, you will be given a list of four AWS nameservers.
