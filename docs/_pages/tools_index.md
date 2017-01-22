@@ -1,7 +1,7 @@
 ---
 title: Tools
 layout: page
-permalink: cloud/tools_index.html
+permalink: cloud/tools_index.md
 ---
 
 ### I want to...
@@ -11,7 +11,7 @@ permalink: cloud/tools_index.html
 
 * Create an AWS Cloudformation stack:
   * [Amazonia](https://github.com/GeoscienceAustralia/Amazonia)
-  
+
 * Keep my code in version control:
   * [Github](https://github.com/GeoscienceAustralia) - for public repositories
   * [Bitbucket](https://bitbucket.org/geoscienceaustralia) - for private repositories
@@ -21,6 +21,9 @@ permalink: cloud/tools_index.html
   * [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) - for Bitbucket repositories
 
 * Monitor my AWS infrastructure:
-  * [ELK](https://github.com/GeoscienceAustralia/toucan/tree/master/monitoring)
-  * [Cloudsploit-Lambda](https://github.com/GeoscienceAustralia/cloudsploit-lambda)
-  
+  * [ELK](https://github.com/GeoscienceAustralia/metrics) - general logging and monitoring for all services
+  * [Cloudsploit-Lambda](https://github.com/GeoscienceAustralia/cloudsploit-lambda) - run regular security audits on your AWS space
+
+* Make my AWS space more secure:
+  * [space-provisioner](https://bitbucket.org/geoscienceaustralia/space-provisioner) - configure your AWS space to a minimum level of security
+  * [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/) - requires business-level support on your AWS account.

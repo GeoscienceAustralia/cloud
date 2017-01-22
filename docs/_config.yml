@@ -59,7 +59,7 @@ navigation:
     url: aws_patterns_sub.html
     internal: true
 - text: Tools
-  url: tools
+  url: tools_index.html
   internal: true
 - text: Security 
   subcategories:
