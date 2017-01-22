@@ -11,6 +11,7 @@ collections:
 # Title
 name: cloud.ga.gov.au
 subtitle: Patterns and best-practices
+url: cloud.ga.gov.au
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -31,7 +32,7 @@ logoalt:
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: ./
+  url: cloud.ga.gov.au
   internal: true
 - text: Getting Started
   subcategories:
