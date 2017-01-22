@@ -98,6 +98,9 @@ navigation:
   - text: Cost Management
     url: cost_management_sub.html
     internal: true
+  - text: DNS Changes
+    url: dns_changes_sub.html
+    internal: true
   - text: Release Checklists
     url: release_checklist_sub.html
     internal: true
