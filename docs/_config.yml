@@ -87,6 +87,9 @@ navigation:
   - text: Principles for Software Development
     url: coding_principles_sub.html
     internal: true
+  - text: Testing
+    url: testing_sub.html
+    internal: true
   - text: Application Release
     url: app_release_sub.html
     internal: true
@@ -98,9 +101,6 @@ navigation:
   internal: true
 - text: Data
   url: data_index.html
-  internal: true
-- text: Testing
-  url: testing_index.html
   internal: true
 
 
