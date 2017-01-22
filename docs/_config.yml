@@ -90,15 +90,17 @@ navigation:
   - text: Testing
     url: testing_sub.html
     internal: true
-  - text: Application Release
-    url: app_release_sub.html
+- text: Release
+  subcategories:
+  - text: Monitoring
+    url: monitoring_sub.html
     internal: true
-- text: Monitoring
-  url: monitoring_index.html
-  internal: true
-- text: Cost Management
-  url: cost_management_index.html
-  internal: true
+  - text: Cost Management
+    url: cost_management_sub.html
+    internal: true
+  - text: Release Checklists
+    url: release_checklist_sub.html
+    internal: true
 - text: Data
   url: data_index.html
   internal: true

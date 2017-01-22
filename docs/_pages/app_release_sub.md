@@ -1,7 +1,7 @@
 ---
-title: Application Release
+title: Release Checklists
 layout: page
-permalink: cloud/app_release_sub.html
+permalink: cloud/release_checklist_sub.html
 ---
 
 ### Communications checklist
