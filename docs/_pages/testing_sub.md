@@ -37,3 +37,4 @@ You might want to check out:
 
 * [Selenium](http://www.seleniumhq.org/)
 * [ServerSpec](http://serverspec.org)
+* [awspec](https://github.com/k1LoW/awspec)
