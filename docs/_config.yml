@@ -31,8 +31,8 @@ logoalt:
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: ./
-  internal: false
+  layout: external
+  external_url: https://cloud.ga.gov.au/
 - text: Getting Started
   subcategories:
   - text: Things to Consider
