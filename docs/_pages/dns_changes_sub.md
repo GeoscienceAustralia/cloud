@@ -8,12 +8,13 @@ permalink: cloud/dns_changes_sub.html
 
 [Create a hosted zone](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/CreatingHostedZone.html) in AWS Route 53. When the zone is created, you will be given a list of four AWS nameservers.
 
-Raise a support request to delegate control of this subdomain to these nameservers. This request will need to be approved by Products & Promotions - it should be sent to them automatically. Once done, this will make these nameservers the authority for this zone, so make sure your records are in place before raising the request.
+Raise a support request to delegate control of this subdomain to these nameservers. Mark this request as "Attn: Networks, Windows, Linux". This request should be automatically sent to Products & Promotions for approval. Once done, this will make these nameservers the authority for this zone, so make sure your records are in place before raising the request.
 
-This support request will:
+The content of the request should:
 
-1. Request our upstream DNS provider to make these changes to their DNS configuration.
-2. Ensure internal DNS is updated to reflect these external changes.
+1. Request a ticket be raised to our upstream DNS provider to make these changes to their DNS configuration. ("Attn: Networks")
+2. Request an update to internal DNS to reflect these external changes. ("Attn: Windows")
+3. Request an update to internal proxy to ensure routing is performed correctly. ("Attn: Linux")
 
 ### Creating a \*.gov.au website
 
