@@ -8,25 +8,25 @@ If you're running a production system, you should include a runbook in your repo
 
 An example runbook is outlined below, courtesy of [Skelton Thatcher](https://github.com/SkeltonThatcher/run-book-template).
 
-#Run Book / System Operation Manual#
+#Run Book / System Operation Manual
 
-##Service or system overview##
+##Service or system overview
 
 **Service or system name:** 
 
-###Business overview###
+###Business overview
 
 > What business need is met by this service or system? What expectations do we have about availability and performance?
 
 _(e.g. Provides reliable automated reconciliation of logistics transactions from the previous 24 hours)_
 
-###Technical overview###
+###Technical overview
 
 > What kind of system is this? Web-connected order processing? Back-end batch system? Internal HTTP-based API? ETL control system?
 
 _(e.g. Internal API for order reconciliation based on Ruby and RabbitMQ, deployed in Docker containers on Kubernetes)_
 
-###Service Level Agreements (SLAs)###
+###Service Level Agreements (SLAs)
 
 > What explicit or implicit expectations are there from users or clients about the availability of the service or system?
 
