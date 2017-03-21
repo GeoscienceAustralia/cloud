@@ -14,7 +14,7 @@ The content of the request should:
 
 1. Request a ticket be raised to our upstream DNS provider to make these changes to their DNS configuration. ("Attn: Networks")
 2. Request an update to internal DNS to reflect these external changes. ("Attn: Windows")
-3. Request an update to internal proxy to ensure routing is performed correctly. ("Attn: Linux")
+3. Request an update to the proxy.pac file on intranet.ga.gov.au. ("Attn: WebOps")
 
 ### Creating a \*.gov.au website
 
