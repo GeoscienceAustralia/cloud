@@ -9,7 +9,7 @@ permalink: cloud/things_to_consider_sub.html
 1. Join [Slack](https://geoscience-australia.slack.com/signup), our messaging app. It's a great place to ask questions.
 2. Join the #awscop and #autobots channels to chat with experts from across GA.
 
-### Learning about AWS
+### Learning about AWS\*
 
 If you just want to experiment with AWS, you should get an account in the AWS Dev space. Send a Slack message or an email to the Autobots to get the ball rolling.
 
@@ -28,3 +28,5 @@ Migrating of existing applications to AWS isn't as simple as copying and pasting
 ### Choosing a cloud provider
 
 There are a number of cloud providers available. Have a chat with the Autobots team, GA's architects, and MDTs that have already deployed cloud-based applications. They can help you make the best decision for your application.
+
+\* <sub><sup>Note that GA has signed a Non-Disclosure Agreement with Amazon that applies to *all GA staff and contractors*. Amazon representatives may, at times, reveal information to you that falls under this NDA. You must not reveal this information without Amazon's prior written consent. For the full text of the NDA, get in touch with the Autobots.</sup></sub>
