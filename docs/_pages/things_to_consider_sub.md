@@ -29,4 +29,4 @@ Migrating of existing applications to AWS isn't as simple as copying and pasting
 
 There are a number of cloud providers available. Have a chat with the Autobots team, GA's architects, and MDTs that have already deployed cloud-based applications. They can help you make the best decision for your application.
 
-\* <sub><sup>Note that GA has signed a Non-Disclosure Agreement with Amazon that applies to *all GA staff and contractors*. Amazon representatives may, at times, reveal information to you that falls under this NDA. You must not reveal this information without Amazon's prior written consent. For the full text of the NDA, get in touch with the Autobots.</sup></sub>
+\* <sub>Note that GA has signed a Non-Disclosure Agreement with Amazon that applies to *all GA staff and contractors*. Amazon representatives may, at times, reveal information to you that falls under this NDA. You must not reveal this information without Amazon's prior written consent. For the full text of the NDA, get in touch with the Autobots.</sub>
