@@ -20,11 +20,11 @@ This will create a security-hardened Amazon Machine Image running Tomcat. This c
 
 Example Terraform architectures are located in the [Terraform project](https://bitbucket.org/account/user/geoscienceaustralia/projects/TF).
 
-If you're just getting started, look at the various workshop examples ([Workshop 1](https://bitbucket.org/geoscienceaustralia/workshop_ec2), [Workshop 2](https://bitbucket.org/geoscienceaustralia/workshop_ec2-userdata), [Workshop 3](https://bitbucket.org/geoscienceaustralia/workshop_asg)).
+If you're just getting started, look at the various workshop examples ([Workshop 1](https://bitbucket.org/geoscienceaustralia/tutorial-1-ec2), [Workshop 2](https://bitbucket.org/geoscienceaustralia/tutorial-2-ec2-userdata), [Workshop 3](https://bitbucket.org/geoscienceaustralia/tutorial-3-asg).
 
-If you're looking for something more advanced, look at the example architectures:
+If you're looking for something more advanced, look at the approved example architectures:
 
-[Two-tier webserver](https://bitbucket.org/geoscienceaustralia/two-tier-www)
+[Webserver Architecture](https://bitbucket.org/geoscienceaustralia/webserver)
 
 This will create:
 
@@ -32,7 +32,16 @@ This will create:
  * An elastic load-balancer
  * A VPC with a NAT gateway and a jump host
 
-[Webserver with a database](https://bitbucket.org/geoscienceaustralia/three-tier-rds)
+[Webserver + EFS Architecture](https://bitbucket.org/geoscienceaustralia/webserver-efs)
+
+This will create:
+
+ * An autoscaling web server group
+ * An EFS network drive for shared storage
+ * An elastic load-balancer
+ * A VPC with a NAT gateway and a jump host
+
+[Webserver with a database](https://bitbucket.org/geoscienceaustralia/webserver-db)
 
 This will create:
 
@@ -41,18 +50,20 @@ This will create:
  * A Postgres database
  * A VPC with a NAT gateway and a jump host
 
-[Static website with S3 and Cloudfront](https://bitbucket.org/geoscienceaustralia/s3-cloudfront)
-
-This will create
-
- * A static website on S3
- * A Cloudfront distribution for content delivery
-
-[Two-tier webserver with shared storage](https://bitbucket.org/geoscienceaustralia/two-tier-efs)
+[Webserver + EFS with a database](https://bitbucket.org/geoscienceaustralia/webserver-db)
 
 This will create:
 
  * An autoscaling web server group
+ * An EFS network drive for shared storage
  * An elastic load-balancer
+ * A Postgres database
  * A VPC with a NAT gateway and a jump host
- * An EFS file system
+
+[Static website](https://bitbucket.org/geoscienceaustralia/static-website)
+
+This will create
+
+ * A static website on S3
+ * A Cloudfront distribution for caching and content delivery
+ 
