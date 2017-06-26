@@ -50,7 +50,7 @@ This will create:
  * A Postgres database
  * A VPC with a NAT gateway and a jump host
 
-[Webserver + EFS with a database](https://bitbucket.org/geoscienceaustralia/webserver-db)
+[Webserver + EFS with a database](https://bitbucket.org/geoscienceaustralia/webserver-efs-db)
 
 This will create:
 
