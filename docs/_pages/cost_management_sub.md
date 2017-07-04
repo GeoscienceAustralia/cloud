@@ -6,7 +6,7 @@ permalink: cloud/cost_management_sub.html
 
 ### Metrics
 
-Head to the [metrics dashboard](metrics.gadevs.ga) to see cost information for your AWS account. This updates with new cost information every six hours or so.
+Log into [Cloudability](cloudability.com) to see cost information for your AWS account. If you don't have access, get in touch with the Autobots.
 
 ### Billing alerts
 
