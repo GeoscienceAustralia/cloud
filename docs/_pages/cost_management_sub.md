@@ -6,7 +6,7 @@ permalink: cloud/cost_management_sub.html
 
 ### Metrics
 
-Log into [Cloudability](cloudability.com) to see cost information for your AWS account. If you don't have access, get in touch with the Autobots.
+Log into [Cloudability](https://www.cloudability.com) to see cost information for your AWS account. If you don't have access, get in touch with the Autobots.
 
 ### Billing alerts
 
