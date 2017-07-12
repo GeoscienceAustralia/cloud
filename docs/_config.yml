@@ -46,6 +46,9 @@ navigation:
   - text: Setting Up Continuous Delivery
     url: setting_up_cd_sub.html
     internal: true
+  - text: Setting Up Cost Monitoring
+    url: setting_up_cost_monitoring.html
+    internal: true
   - text: Decommissioning Strategy
     url: decom_strategy_sub.html
     internal: true
