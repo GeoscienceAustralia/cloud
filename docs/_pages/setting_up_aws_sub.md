@@ -37,12 +37,7 @@ They will need to log in and set a new password.
 ## 3. Secure it!
 
 The technical owner of the account will need to:
- * Reset the password of the root account:
-   * Head to the [AWS Console](https://console.aws.amazon.com/)
-   * Click on 'Sign-in using root account credentials'
-   * Click on 'Forgot your password?'
-   * Enter the email address you sent to the Autobots
-   * Follow the prompts in the email to set the root password
+ * Reset the password of the root account
 
 ## 4. Clean up steps 
 
