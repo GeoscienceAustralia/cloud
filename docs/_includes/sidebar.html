@@ -13,7 +13,7 @@
                   <ul class="sidebar-menu-third hidden">
                     {% for thirdlevel in subcategory.subcategories %}
                       {% if thirdlevel.internal == true %}
-                        <li><a class="sidebar-nav-third" href="{{ site.baseurl }}/{{ thirdlevel.url }}">{{ thirdlevel.text }}</a></li>
+                        <li><a class="sidebar-nav-third" href="{{ site.baseurl }}/cloud/{{ thirdlevel.url }}">{{ thirdlevel.text }}</a></li>
                       {% else %}
                         <li><a class="sidebar-nav-third" href="{{ subcategory.url }}">{{ subcategory.text }}</a></li>
                       {% endif %}
@@ -21,7 +21,7 @@
                   </ul>
                 {% else %}
                   {% if subcategory.internal == true %}
-                    <li><a class="sidebar-nav-second" href="{{ site.baseurl }}/{{ subcategory.url }}">{{ subcategory.text }}</a></li>
+                    <li><a class="sidebar-nav-second" href="{{ site.baseurl }}/cloud/{{ subcategory.url }}">{{ subcategory.text }}</a></li>
                   {% else %}
                     <li><a class="sidebar-nav-second" href="{{ subcategory.url }}">{{ subcategory.text }}</a></li>
                   {% endif %}
@@ -31,7 +31,7 @@
             </ul>
           {% else %}
             {% if link.internal == true %}
-              <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.text }}</a></li>
+              <li><a href="{{ site.baseurl }}/cloud/{{ link.url }}">{{ link.text }}</a></li>
             {% else %}
               <li><a href="{{ link.url }}">{{ link.text }}</a></li>
             {% endif %}
