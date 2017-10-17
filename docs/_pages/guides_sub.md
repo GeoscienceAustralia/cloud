@@ -14,6 +14,6 @@ permalink: cloud/guides_sub.html
 
 In progress.
 
-## CSC Cloud
+## Azure
 
 In progress.
