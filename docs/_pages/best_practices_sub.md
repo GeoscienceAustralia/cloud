@@ -4,7 +4,7 @@ layout: page
 permalink: cloud/best_practices_sub.html
 ---
 
-## Digital Service Standard
+### Digital Service Standard
 
 Follow as closely as possible the DTA's [Digital Service Standard](https://www.dta.gov.au/standard/).
 
