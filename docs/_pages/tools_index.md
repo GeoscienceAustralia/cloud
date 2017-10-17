@@ -9,8 +9,9 @@ permalink: cloud/tools_index.html
 * Ask questions and learn more:
   * [Slack](https://geoscience-australia.slack.com/signup)
 
-* Create an AWS Cloudformation stack:
-  * [Amazonia](https://github.com/GeoscienceAustralia/Amazonia)
+* Create an AWS stack:
+  * [Terraform](https://terraform.io)
+  * [Packer](https://packer.io)
 
 * Keep my code in version control:
   * [Github](https://github.com/GeoscienceAustralia) - for public repositories
@@ -21,12 +22,10 @@ permalink: cloud/tools_index.html
   * [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) - for Bitbucket repositories
 
 * Monitor my AWS infrastructure:
-  * [ELK](https://github.com/GeoscienceAustralia/metrics) - general logging and monitoring for all services
-  * [Cloudsploit-Lambda](https://github.com/GeoscienceAustralia/cloudsploit-lambda) - run regular security audits on your AWS space
-
-* Make my AWS space more secure:
-  * [space-provisioner](https://bitbucket.org/geoscienceaustralia/space-provisioner) - configure your AWS space to a minimum level of security
+  * [SecGA](https://sec.gadevs.ga) - AWS security auditing
+  * [MonitorGA](https://monitor.gadevs.ga) - monitoring for all services
+  * [ELK](https://github.com/GeoscienceAustralia/metrics) - logging for all services
   * [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/) - requires business-level support on your AWS account.
 
 * Monitor my AWS costs:
-  * [Cloudability](https://app.cloudability.com) - Monitor your costs and create dashboards, Contact the autobots for an account.
+  * [Cloudability](https://cloudability.com) - Monitor your costs and create dashboards, Contact the autobots for an account.
