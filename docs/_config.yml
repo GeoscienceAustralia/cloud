@@ -94,6 +94,9 @@ navigation:
     internal: true
 - text: Release
   subcategories:
+  - text: Release Checklists
+    url: release_checklist_sub.html
+    internal: true
   - text: Monitoring
     url: monitoring_sub.html
     internal: true
@@ -102,9 +105,6 @@ navigation:
     internal: true
   - text: DNS Changes
     url: dns_changes_sub.html
-    internal: true
-  - text: Release Checklists
-    url: release_checklist_sub.html
     internal: true
   - text: Example Runbook
     url: runbook_sub.html
