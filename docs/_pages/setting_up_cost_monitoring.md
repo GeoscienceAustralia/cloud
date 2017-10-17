@@ -6,15 +6,15 @@ permalink: cloud/setting_up_cost_monitoring.html
 
 # Get an account
 
-Either send an email to [Autobots](mailto:autobots@ga.gov.au) or message us on slack #autobots
+Either send an email to [Autobots](mailto:autobots@ga.gov.au) or message us on Slack #autobots
 
 # Log in
 
-You'll get an email to setup your account. Once you've set up your account you can go to [cloudability](https://app.cloudability.com) and follow the prompts to login.
+You'll get an email to setup your account. Once you've set up your account you can go to [Cloudability](https://app.cloudability.com) and follow the prompts to login.
 
 # Change your email preferences
 
-By default cloudability will send you an email every day. You can change this by performing the following:
+By default Cloudability will send you an email every day. You can change this:
 1. Click the cog in the top right
 2. Under your profile picture, select _Preferences_
 3. Under *Cloud Spend Summary Emails* change the frequency via the dropdown
