@@ -10,8 +10,10 @@ permalink: cloud/tools_index.html
   * [Slack](https://geoscience-australia.slack.com/signup)
 
 * Create an AWS stack:
-  * [Terraform](https://terraform.io)
-  * [Packer](https://packer.io)
+  * [Terraform](https://terraform.io) - create the whole infrastructure (auto-scaling, networking, storage, etc.)
+  * [Terraform Examples](https://bitbucket.org/account/user/geoscienceaustralia/projects/TF)
+  * [Packer](https://packer.io) - configure cookie-cutter Amazon Machine Images
+  * [Packer Examples](https://bitbucket.org/account/user/geoscienceaustralia/projects/TF)
 
 * Keep my code in version control:
   * [Github](https://github.com/GeoscienceAustralia) - for public repositories
