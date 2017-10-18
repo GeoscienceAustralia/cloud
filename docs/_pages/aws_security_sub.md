@@ -30,5 +30,5 @@ Don't commit your AWS keys to git repositories!
 * Have a read of the [AWS security whitepapers](https://aws.amazon.com/whitepapers/).
 * Familiarise yourself with GA security policies on the intranet. Remember you can get in touch with the ICT IS Security team if you have any questions about IT security.
 
-### And seriously...
+### And remember...
 Don't commit your AWS keys to git repositories!
