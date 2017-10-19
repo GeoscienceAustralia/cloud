@@ -109,10 +109,6 @@ navigation:
   - text: Example Runbook
     url: runbook_sub.html
     internal: true
-- text: Data
-  url: data_index.html
-  internal: true
-
 
 
 # Style Variables
