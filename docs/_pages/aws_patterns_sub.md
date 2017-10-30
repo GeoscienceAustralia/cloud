@@ -8,9 +8,9 @@ permalink: cloud/aws_patterns_sub.html
 
 Example AMI builds are located in the [Packer project](https://bitbucket.org/account/user/geoscienceaustralia/projects/PAC). These include:
 
-[Simple webserver](https://bitbucket.org/geoscienceaustralia/simple-webserver)
+#### [Simple webserver](https://bitbucket.org/geoscienceaustralia/simple-webserver)
 
-[Tomcat](https://bitbucket.org/geoscienceaustralia/tomcat-packer)
+#### [Tomcat](https://bitbucket.org/geoscienceaustralia/tomcat-packer)
 
 ### Creating AWS infrastructure
 
