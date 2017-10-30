@@ -31,10 +31,16 @@ You might want to check out:
 * [mocha](http://mochajs.org/)
 * [jasmine](https://github.com/jasmine/jasmine)
 
+### Infrastructure Testing
+
+You might want to check out:
+
+* [ServerSpec](http://serverspec.org)
+* [awspec](https://github.com/k1LoW/awspec)
+* [goss](https://github.com/aelsabbahy/goss)
+
 ### Functional Testing
 
 You might want to check out:
 
 * [Selenium](http://www.seleniumhq.org/)
-* [ServerSpec](http://serverspec.org)
-* [awspec](https://github.com/k1LoW/awspec)
