@@ -10,11 +10,7 @@ Example AMI builds are located in the [Packer project](https://bitbucket.org/acc
 
 [Simple webserver](https://bitbucket.org/geoscienceaustralia/simple-webserver)
 
-This will create a security-hardened Amazon Machine Image running Apache. This AMI can then be used to create a running EC2 instance.
- 
 [Tomcat](https://bitbucket.org/geoscienceaustralia/tomcat-packer)
-
-This will create a security-hardened Amazon Machine Image running Tomcat. This can be used as a basis to run any Java web container, including applications running on Geoserver.
 
 ### Creating AWS infrastructure
 
@@ -24,46 +20,14 @@ If you're just getting started, look at the various workshop examples ([Workshop
 
 If you're looking for something more advanced, look at the approved example architectures:
 
-[Webserver Architecture](https://bitbucket.org/geoscienceaustralia/webserver)
+#### [Webserver Architecture](https://bitbucket.org/geoscienceaustralia/webserver)
 
-This will create:
+#### [Webserver + EFS Architecture](https://bitbucket.org/geoscienceaustralia/webserver-efs)
 
- * An autoscaling web server group
- * An elastic load-balancer
- * A VPC with a NAT gateway and a jump host
+#### [Webserver with a database](https://bitbucket.org/geoscienceaustralia/webserver-db)
 
-[Webserver + EFS Architecture](https://bitbucket.org/geoscienceaustralia/webserver-efs)
+#### [Webserver + EFS with a database](https://bitbucket.org/geoscienceaustralia/webserver-efs-db)
 
-This will create:
+#### [Static website](https://bitbucket.org/geoscienceaustralia/static-website)
 
- * An autoscaling web server group
- * An EFS network drive for shared storage
- * An elastic load-balancer
- * A VPC with a NAT gateway and a jump host
-
-[Webserver with a database](https://bitbucket.org/geoscienceaustralia/webserver-db)
-
-This will create:
-
- * An autoscaling web server group
- * An elastic load-balancer
- * A Postgres database
- * A VPC with a NAT gateway and a jump host
-
-[Webserver + EFS with a database](https://bitbucket.org/geoscienceaustralia/webserver-efs-db)
-
-This will create:
-
- * An autoscaling web server group
- * An EFS network drive for shared storage
- * An elastic load-balancer
- * A Postgres database
- * A VPC with a NAT gateway and a jump host
-
-[Static website](https://bitbucket.org/geoscienceaustralia/static-website)
-
-This will create
-
- * A static website on S3
- * A Cloudfront distribution for caching and content delivery
  
