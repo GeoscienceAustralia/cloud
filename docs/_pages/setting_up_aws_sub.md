@@ -20,7 +20,7 @@ Include this information in your email:
 
   * Approval from your financial delegate with GA Cost and Activity Codes
   
-  * The name for your Account
+  * The name for your Account (ga-aws-______)
   
   * The name of the technical owner of the account. This user will receive credentials to log into the new account, and they will be responsible for the ongoing security of the account
 
