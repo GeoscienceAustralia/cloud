@@ -14,7 +14,7 @@ permalink: cloud/release_checklist_sub.html
   * Well-documented code
   * Consistent style
   * Appropriate licence
-  * Appropriate language, for example profanity or derogatory comments
+  * Appropriate language, e.g. ensure there is no profanity or derogatory language
   * No hard-coded GA-specifics, such as passwords, file paths, AWS keys
 1. Ensure your application adheres to the DTA's [Digital Service Standard](https://www.dta.gov.au/standard/)
 1. Perform an [AWS Well Architected Review](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) either within your team, or with the help of AWS
