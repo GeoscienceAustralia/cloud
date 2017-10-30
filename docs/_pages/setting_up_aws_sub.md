@@ -7,7 +7,7 @@ permalink: cloud/setting_up_aws_sub.html
 # First steps
 
 1. Join [Slack](https://geoscience-australia.slack.com/signup), our messaging app. It's a great place to ask questions.
-2. Join the #awscop and #autobots channels to chat with experts from across GA.
+2. Join the #cloud and #autobots channels to chat with experts from across GA.
 3. Talk with your Divisional Information Officer (DIO) and/or the Autobots about what you wish to achieve. If you are just looking to have a play with AWS or try out a specific service, then the GA AWS Development environment may be suitable for your needs.
 
 # Create an AWS account
