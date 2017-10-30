@@ -14,17 +14,17 @@ This covers criteria like:
 
 Open source by default. We want to keep our code as open as possible - for peer-review and transparency, and in order to contribute to the wider community.
 
-*Agile*
+#### Agile
 
 Develop your stuff iteratively with as much user input as possible. Get a minimum viable product to your users as soon as possible.
 
-*Security*
+#### Security
 
 Bake in [Security](aws_security_sub.html)  as early as you can. Security is an essential ingredient, not a band-aid.
 
 Make use of the passive security provided by some of the [Tools](tools_index.md) created by your GA teammates.
 
-*Testing*
+#### Testing
 
 Make sure your services are tested from end-to-end.
 
