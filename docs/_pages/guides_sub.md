@@ -9,11 +9,3 @@ permalink: cloud/guides_sub.html
 ### Guides
 
 [The Open Source Guide to AWS](https://github.com/open-guides/og-aws/blob/master/README.md)
-
-## NCI
-
-In progress.
-
-## Azure
-
-In progress.
