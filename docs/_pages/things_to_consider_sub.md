@@ -26,7 +26,7 @@ Remember to:
 Each AWS space owner is responsible for ongoing management of their AWS space. This includes:
 
  * [Security](https://sec.gadevs.ga)
- * [Monitoring](https://monitoring.gadevs.ga)
+ * [Monitoring](https://monitor.gadevs.ga)
  * [Costs](cost_management_index.html)
 
 ### Migrating applications
