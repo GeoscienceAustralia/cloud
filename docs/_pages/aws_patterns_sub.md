@@ -18,11 +18,11 @@ Example Terraform architectures are located in the [Terraform project](https://b
 
 If you're just getting started, look at the various workshop examples ([Workshop 1](https://bitbucket.org/geoscienceaustralia/tutorial-1-ec2), [Workshop 2](https://bitbucket.org/geoscienceaustralia/tutorial-2-ec2-userdata), [Workshop 3](https://bitbucket.org/geoscienceaustralia/tutorial-3-asg)) or have a look at [18F's fantastic walkthrough](https://github.com/jezhumble/cloud-native-aws-terraform-workshop).
 
-If you're looking for something more advanced, look at the approved example architectures:
+If you're looking for something more advanced, look at the Security-approved example architectures:
 
 #### [Webserver Architecture](https://bitbucket.org/geoscienceaustralia/webserver)
 
-#### [Webserver + EFS Architecture](https://bitbucket.org/geoscienceaustralia/webserver-efs)
+#### [Webserver + EFS](https://bitbucket.org/geoscienceaustralia/webserver-efs)
 
 #### [Webserver with a database](https://bitbucket.org/geoscienceaustralia/webserver-db)
 
