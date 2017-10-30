@@ -10,7 +10,7 @@ Follow as closely as possible the DTA's [Digital Service Standard](https://www.d
 
 This covers criteria like:
 
-*Open Source*
+#### Open Source
 
 Open source by default. We want to keep our code as open as possible - for peer-review and transparency, and in order to contribute to the wider community.
 
