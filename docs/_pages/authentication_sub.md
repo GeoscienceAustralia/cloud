@@ -6,11 +6,11 @@ permalink: cloud/authentication_sub.html
 
 ### Introduction
 
-Please consider federating with GA’s Authentication application (OpenAM) for single sign on as a lot of these requirements will be managed for you. Just have a chat with your local neighbourhood integration team.
+Please consider federating with GA’s single sign on solution as a lot of these requirements will be managed for you. Just have a chat with the Integration team.
 
 ### Lifecycle
 
-Ensure that when employment ceases, processes exist so that accounts and privileged access relating to the position can be terminated or transferred, preferably automatically. 
+Ensure that when employment ceases, processes exist so that accounts and privileged access relating to the position can be terminated or transferred, preferably automatically.
 
 ### Compromised
 
