@@ -30,6 +30,8 @@ How would you recover if...
 * Your entire production application was deleted?
 * An availability zone or region was unavailable?
 
+How about...
+
 * Is your code in version control? Application code, infrastructure code, automated tests, and pipeline?
 * Is your architecture self-healing and auto-scaling?
 * Are you monitoring your application for faults? For content changes?
