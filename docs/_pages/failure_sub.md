@@ -12,7 +12,7 @@ What is your application's recovery time objective (RTO) and recovery point obje
 
 The key points are:
 
-1. Regularly back up your data.
+1. Regularly back up your data. This could include [EBS snapshots](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html), [RDS snapshots](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateSnapshot.html), or sending database dumps to S3.
 1. Automate your backup process and alert when your backups fail.
 1. Regularly test your backup files.
 1. For critical data, consider backing up to a separate AWS account.
@@ -30,9 +30,14 @@ How would you recover if...
 * Your entire production application was deleted?
 * An availability zone or region was unavailable?
 
-How about...
+Some architectural questions:
 
 * Is your code in version control? Application code, infrastructure code, automated tests, and pipeline?
 * Is your architecture self-healing and auto-scaling?
 * Are you monitoring your application for faults? For content changes?
+
+And some communications questions:
+
+* Who should you contact after a failure event?
+* Do you need to inform the Security team or the Autobots?
 
