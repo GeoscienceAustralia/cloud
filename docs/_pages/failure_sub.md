@@ -22,6 +22,10 @@ The key points are:
 
 Consider using a tool like [Netflix's ChaosMonkey](https://github.com/Netflix/chaosmonkey) to intentionally inject failures into your system. This can expose weaknesses in your configuration, increasing your overall resilience.
 
+### Load Testing
+
+Consider using a tool like [Gatling](https://github.com/electronicarts/gatling-aws-maven-plugin) to load test your infrastructure, ensuring it can handle high loads of user activity.
+
 ### Disaster Planning
 
 How would you recover if...
