@@ -24,7 +24,7 @@ Consider using a tool like [Netflix's ChaosMonkey](https://github.com/Netflix/ch
 
 ### Load Testing
 
-Consider using a tool like [Gatling](https://github.com/electronicarts/gatling-aws-maven-plugin) to load test your infrastructure, ensuring it can handle high loads of user activity.
+Consider using a tool like [Gatling](https://github.com/electronicarts/gatling-aws-maven-plugin) to load test your infrastructure, ensuring it can handle high levels of user activity.
 
 ### Disaster Planning
 
