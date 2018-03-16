@@ -7,7 +7,7 @@ permalink: cloud/things_to_consider_sub.html
 ### Before you begin
 
 1. Join [Slack](https://join.slack.com/geoscience-australia/signup), our messaging app, using your ga.gov.au email address. It's a great place to ask questions.
-2. Join the #awscop and #autobots channels to chat with experts from across GA.
+2. Join the #cloud and #autobots channels to chat with experts from across GA.
 
 ### Learning about AWS\*
 

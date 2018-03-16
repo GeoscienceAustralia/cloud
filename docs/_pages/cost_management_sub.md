@@ -18,7 +18,7 @@ Bots trawl through public git repositories looking for unencrypted AWS keys. A l
 
 ### Use the right type of service
 
-Use your [monitoring](monitoring_index.html) to make sure your instances are the right size. Consider auto-scaling smaller sized instances rather than having a single large instance.
+Use your [monitoring](monitoring_sub.html) to make sure your instances are the right size. Consider auto-scaling smaller sized instances rather than having a single large instance.
 
 If you're running batch processing, look into [spot instances](https://aws.amazon.com/ec2/spot/).
 
